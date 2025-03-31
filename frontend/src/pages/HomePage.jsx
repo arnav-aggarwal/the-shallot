@@ -1,25 +1,35 @@
+// The Shallot - AI News Slant Demo (Live News Integration)
+
 import React, { useState, useEffect } from "react";
 
 const SLANTS = ["Neutral", "Conservative", "Progressive", "Populist"];
 
 const fetchArticles = async () => {
-  // TEMPORARY: placeholder data. Will replace with live news + AI soon.
-  return [
-    {
-      title: "President Announces New Tariff Policy",
-      neutral: "President announces reciprocal tariff policy aimed at leveling trade playing field.",
-      conservative: "President takes bold stand against unfair foreign trade with sweeping tariffs.",
-      progressive: "President's tariff move risks escalating trade tensions and harming consumers.",
-      populist: "President fights globalist elites with tariffs to bring back American jobs.",
-    },
-    {
-      title: "Supreme Court Reviews Key Cases",
-      neutral: "Court considers cases on guns, transgender care, online content, and religion in schools.",
-      conservative: "Conservative-leaning court could rein in radical progressive policies.",
-      progressive: "Court may undermine essential rights for trans youth and online freedoms.",
-      populist: "Elites on the bench debate our freedoms while the people wait.",
-    },
-  ];
+  const API_KEY = import.meta.env.VITE_NEWS_API_KEY; // Add this to your .env file
+  console.log(import.meta, import.meta.env, API_KEY);
+  const response = await fetch(
+    `https://newsapi.org/v2/top-headlines?country=us&category=general&pageSize=6&apiKey=${API_KEY}`
+  );
+  const data = await response.json();
+
+  // Fallback if API fails
+  if (!data.articles) return [];
+
+  console.log(data.articles.map((a) => ({
+    title: a.title,
+    neutral: a.description || a.content || "No summary available.",
+    conservative: "[Placeholder]", // To be filled in with AI rewriting
+    progressive: "[Placeholder]",
+    populist: "[Placeholder]",
+  })));
+
+  return data.articles.map((a) => ({
+    title: a.title,
+    neutral: a.description || a.content || "No summary available.",
+    conservative: "[Placeholder]", // To be filled in with AI rewriting
+    progressive: "[Placeholder]",
+    populist: "[Placeholder]",
+  }));
 };
 
 export default function HomePage() {
@@ -27,7 +37,7 @@ export default function HomePage() {
   const [articles, setArticles] = useState([]);
 
   useEffect(() => {
-    fetchArticles().then(setArticles);
+    fetchArticles().then(setArticles).then();
   }, []);
 
   const hero = articles[0];
