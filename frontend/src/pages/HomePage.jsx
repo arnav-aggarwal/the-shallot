@@ -1,35 +1,12 @@
-// The Shallot - AI News Slant Demo (Live News Integration)
+// The Bulletin - AI News Slant Demo (Now reads from cached JSON)
 
 import React, { useState, useEffect } from "react";
-import data from '../data/data'
+
 const SLANTS = ["Neutral", "Conservative", "Progressive", "Populist"];
 
 const fetchArticles = async () => {
-  // const API_KEY = import.meta.env.VITE_NEWS_API_KEY; // Add this to your .env file
-  // const response = await fetch(
-  //   `https://newsapi.org/v2/top-headlines?country=us&category=general&pageSize=6&apiKey=${API_KEY}`
-  // );
-  // const data = await response.json();
-
-  // Fallback if API fails
-  // if (!data.articles) return [];
-
-  // console.log(data.articles.map((a) => ({
-  //   title: a.title,
-  //   neutral: a.description || a.content || "No summary available.",
-  //   conservative: "[Placeholder]", // To be filled in with AI rewriting
-  //   progressive: "[Placeholder]",
-  //   populist: "[Placeholder]",
-  // })));
-
-  // return data.articles.map((a) => ({
-  //   title: a.title,
-  //   neutral: a.description || a.content || "No summary available.",
-  //   conservative: "[Placeholder]", // To be filled in with AI rewriting
-  //   progressive: "[Placeholder]",
-  //   populist: "[Placeholder]",
-  // }));
-
+  const response = await fetch("/cache/articles.json");
+  const data = await response.json();
   return data;
 };
 
@@ -38,7 +15,7 @@ export default function HomePage() {
   const [articles, setArticles] = useState([]);
 
   useEffect(() => {
-    fetchArticles().then(setArticles).then();
+    fetchArticles().then(setArticles);
   }, []);
 
   const hero = articles[0];
