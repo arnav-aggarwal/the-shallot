@@ -1,6 +1,5 @@
-// The Bulletin - AI News Slant Demo (Now reads from cached JSON)
-
 import React, { useState, useEffect } from "react";
+import { Link } from "react-router-dom";
 
 const SLANTS = ["Neutral", "Conservative", "Progressive", "Populist"];
 
@@ -10,12 +9,28 @@ const fetchArticles = async () => {
   return data;
 };
 
+function formatTime(iso) {
+  const date = new Date(iso);
+  return date.toLocaleString(undefined, {
+    weekday: "short",
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+  });
+}
+
 export default function HomePage() {
   const [slant, setSlant] = useState("Neutral");
   const [articles, setArticles] = useState([]);
+  const [updatedAt, setUpdatedAt] = useState(null);
 
   useEffect(() => {
-    fetchArticles().then(setArticles);
+    fetchArticles().then((data) => {
+      setArticles(data.articles);
+      setUpdatedAt(data.updatedAt);
+    });
   }, []);
 
   const hero = articles[0];
@@ -45,35 +60,50 @@ export default function HomePage() {
       </div>
 
       {hero && (
-        <div className="mb-10">
-          <div className="border-l-4 border-gray-400 pl-4">
-            <p className="uppercase text-xs text-gray-500 mb-1">Featured</p>
-            <h2 className="text-2xl sm:text-3xl font-bold leading-tight mb-2">{hero.title}</h2>
-            <p className="text-base sm:text-lg text-gray-800 leading-relaxed">
-              {hero[slant.toLowerCase()]}
+        <div className="mb-10 border-l-4 border-gray-400 pl-4">
+          <p className="uppercase text-xs text-gray-500 mb-1">Featured</p>
+          <Link to={`/article/${hero.slug}`} className="block hover:underline">
+            <h2 className="text-2xl sm:text-3xl font-bold leading-tight mb-2">
+              {slant === "Neutral" ? hero.title : hero[slant.toLowerCase()]?.headline}
+            </h2>
+            <p className="text-base sm:text-lg text-gray-800 leading-relaxed line-clamp-3">
+              {slant === "Neutral"
+                ? hero.neutral
+                : hero[slant.toLowerCase()]?.body.slice(0, 200) + "..."}
             </p>
-          </div>
+          </Link>
         </div>
       )}
 
       <section className="grid gap-6 sm:grid-cols-1 md:grid-cols-2">
-        {remaining.map((article, index) => (
-          <div
-            key={index}
-            className="border border-gray-300 p-4 sm:p-6 rounded"
-          >
-            <h3 className="text-xl sm:text-2xl font-semibold mb-2 leading-snug">
-              {article.title}
-            </h3>
-            <p className="text-sm sm:text-base leading-relaxed text-gray-800">
-              {article[slant.toLowerCase()]}
-            </p>
-          </div>
-        ))}
+        {remaining.map((article, index) => {
+          const content =
+            slant === "Neutral"
+              ? { headline: article.title, body: article.neutral }
+              : article[slant.toLowerCase()];
+          return (
+            <Link
+              key={index}
+              to={`/article/${article.slug}`}
+              className="border border-gray-300 p-4 sm:p-6 rounded hover:bg-gray-50 block"
+            >
+              <h3 className="text-xl sm:text-2xl font-semibold mb-2 leading-snug">
+                {content.headline}
+              </h3>
+              <p className="text-sm sm:text-base leading-relaxed text-gray-800 line-clamp-3">
+                {content.body.slice(0, 160)}...
+              </p>
+            </Link>
+          );
+        })}
       </section>
 
       <footer className="mt-10 pt-6 border-t text-xs sm:text-sm text-gray-500">
-        This site is a demonstration of how AI-powered rewriting can alter the tone and message of news. Always question the framing.
+        <p>
+          This site is a demonstration of how AI-powered rewriting can alter the tone and message of
+          news. Always question the framing.
+        </p>
+        {updatedAt && <p className="mt-2">Last updated: {formatTime(updatedAt)}</p>}
       </footer>
     </div>
   );
