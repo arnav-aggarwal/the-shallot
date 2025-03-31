@@ -1,6 +1,3 @@
-// scripts/refreshLocal.js
-// Run manually to generate articles.json locally with slugs and full articles
-
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
@@ -30,6 +27,14 @@ function generatePrompt(content, slant) {
   return `Rewrite the following article from a ${slant.toLowerCase()} perspective. Include a slanted headline and a full-length article (150–300 words). Be subtle, persuasive, and believable.${modifier}\n\nOriginal:\n"${content}"\n\nRewritten (${slant}):`;
 }
 
+function cleanTextBlock(text) {
+  return text
+    .replace(/^\"|\"$/g, "")
+    .replace(/^Headline:\s*/i, "")
+    .replace(/^Article:\s*/i, "")
+    .trim();
+}
+
 async function rewriteFullArticle(content, slant) {
   const prompt = generatePrompt(content, slant);
 
@@ -40,7 +45,7 @@ async function rewriteFullArticle(content, slant) {
       Authorization: `Bearer ${OPENAI_API_KEY}`,
     },
     body: JSON.stringify({
-      model: "gpt-4",
+      model: "gpt-3.5-turbo",
       messages: [
         { role: "system", content: "You are a political speechwriter and editorial writer." },
         { role: "user", content: prompt },
@@ -57,14 +62,15 @@ async function rewriteFullArticle(content, slant) {
     result = result.slice(1, -1);
   }
 
-  const [headline, ...bodyParts] = result.split("\n").filter(Boolean);
-  const body = bodyParts.join("\n").trim();
-  return { headline: headline.trim(), body };
+  const [headlineRaw, ...bodyParts] = result.split("\n").filter(Boolean);
+  const headline = cleanTextBlock(headlineRaw);
+  const body = cleanTextBlock(bodyParts.join("\n").trim());
+  return { headline, body };
 }
 
 async function run() {
   const newsRes = await fetch(
-    `https://newsapi.org/v2/top-headlines?country=us&pageSize=6&apiKey=${NEWS_API_KEY}`
+    `https://newsapi.org/v2/top-headlines?sources=politico,the-hill,cnn,fox-news,msnbc&pageSize=6&apiKey=${NEWS_API_KEY}`
   );
   const news = await newsRes.json();
 
