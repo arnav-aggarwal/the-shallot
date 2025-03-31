@@ -1,35 +1,36 @@
 // The Shallot - AI News Slant Demo (Live News Integration)
 
 import React, { useState, useEffect } from "react";
-
+import data from '../data/data'
 const SLANTS = ["Neutral", "Conservative", "Progressive", "Populist"];
 
 const fetchArticles = async () => {
-  const API_KEY = import.meta.env.VITE_NEWS_API_KEY; // Add this to your .env file
-  console.log(import.meta, import.meta.env, API_KEY);
-  const response = await fetch(
-    `https://newsapi.org/v2/top-headlines?country=us&category=general&pageSize=6&apiKey=${API_KEY}`
-  );
-  const data = await response.json();
+  // const API_KEY = import.meta.env.VITE_NEWS_API_KEY; // Add this to your .env file
+  // const response = await fetch(
+  //   `https://newsapi.org/v2/top-headlines?country=us&category=general&pageSize=6&apiKey=${API_KEY}`
+  // );
+  // const data = await response.json();
 
   // Fallback if API fails
-  if (!data.articles) return [];
+  // if (!data.articles) return [];
 
-  console.log(data.articles.map((a) => ({
-    title: a.title,
-    neutral: a.description || a.content || "No summary available.",
-    conservative: "[Placeholder]", // To be filled in with AI rewriting
-    progressive: "[Placeholder]",
-    populist: "[Placeholder]",
-  })));
+  // console.log(data.articles.map((a) => ({
+  //   title: a.title,
+  //   neutral: a.description || a.content || "No summary available.",
+  //   conservative: "[Placeholder]", // To be filled in with AI rewriting
+  //   progressive: "[Placeholder]",
+  //   populist: "[Placeholder]",
+  // })));
 
-  return data.articles.map((a) => ({
-    title: a.title,
-    neutral: a.description || a.content || "No summary available.",
-    conservative: "[Placeholder]", // To be filled in with AI rewriting
-    progressive: "[Placeholder]",
-    populist: "[Placeholder]",
-  }));
+  // return data.articles.map((a) => ({
+  //   title: a.title,
+  //   neutral: a.description || a.content || "No summary available.",
+  //   conservative: "[Placeholder]", // To be filled in with AI rewriting
+  //   progressive: "[Placeholder]",
+  //   populist: "[Placeholder]",
+  // }));
+
+  return data;
 };
 
 export default function HomePage() {
