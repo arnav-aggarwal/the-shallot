@@ -1,7 +1,9 @@
+// src/pages/HomePage.jsx
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
+import { useSlant } from "../context/SlantContext";
 
-const SLANTS = ["Neutral", "Conservative", "Progressive", "Populist"];
+const SLANTS = ["Neutral", "Conservative", "Progressive"];
 
 const fetchArticles = async () => {
   const response = await fetch("/cache/articles.json");
@@ -22,7 +24,7 @@ function formatTime(iso) {
 }
 
 export default function HomePage() {
-  const [slant, setSlant] = useState("Neutral");
+  const { slant, setSlant } = useSlant();
   const [articles, setArticles] = useState([]);
   const [updatedAt, setUpdatedAt] = useState(null);
 
@@ -64,16 +66,11 @@ export default function HomePage() {
           <p className="uppercase text-xs text-gray-500 mb-1">Featured</p>
           <Link to={`/article/${hero.slug}`} className="block hover:underline">
             <h2 className="text-2xl sm:text-3xl font-bold leading-tight mb-2">
-              {slant === "Neutral"
-                ? hero.neutral.headline
-                : hero[slant.toLowerCase()]?.headline}
+              {hero[slant.toLowerCase()]?.headline}
             </h2>
             <p className="text-base sm:text-lg text-gray-800 leading-relaxed">
               {(() => {
-                const body =
-                  slant === "Neutral"
-                    ? hero.neutral.body
-                    : hero[slant.toLowerCase()]?.body;
+                const body = hero[slant.toLowerCase()]?.body;
                 return body.length > 200 ? body.slice(0, 200) + "..." : body;
               })()}
             </p>
@@ -83,10 +80,7 @@ export default function HomePage() {
 
       <section className="grid gap-6 sm:grid-cols-1 md:grid-cols-2">
         {remaining.map((article, index) => {
-          const content =
-            slant === "Neutral"
-              ? article.neutral
-              : article[slant.toLowerCase()];
+          const content = article[slant.toLowerCase()];
           return (
             <Link
               key={index}
@@ -97,9 +91,7 @@ export default function HomePage() {
                 {content.headline}
               </h3>
               <p className="text-sm sm:text-base leading-relaxed text-gray-800">
-                {content.body.length > 160
-                  ? content.body.slice(0, 160) + "..."
-                  : content.body}
+                {content.body.length > 160 ? content.body.slice(0, 160) + "..." : content.body}
               </p>
             </Link>
           );

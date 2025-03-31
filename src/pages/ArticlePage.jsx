@@ -1,12 +1,13 @@
 // src/pages/ArticlePage.jsx
 import { useParams } from 'react-router-dom';
 import React, { useState, useEffect } from 'react';
+import { useSlant } from '../context/SlantContext';
 
-const SLANTS = ["Neutral", "Conservative", "Progressive", "Populist"];
+const SLANTS = ["Neutral", "Conservative", "Progressive"];
 
 export default function ArticlePage() {
   const { slug } = useParams();
-  const [slant, setSlant] = useState("Neutral");
+  const { slant, setSlant } = useSlant();
   const [article, setArticle] = useState(null);
 
   useEffect(() => {
