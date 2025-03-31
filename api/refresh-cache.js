@@ -10,7 +10,7 @@ dotenv();
 const OPENAI_KEY = process.env.VITE_OPENAI_API_KEY;
 const NEWS_API_KEY = process.env.VITE_NEWS_API_KEY;
 
-const SLANTS = ["Neutral", "Conservative", "Progressive", "Populist"];
+const SLANTS = ["Neutral", "Conservative", "Progressive"];
 
 function slugify(title) {
   return title

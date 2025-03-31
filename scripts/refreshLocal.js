@@ -1,3 +1,6 @@
+// scripts/refreshLocal.js
+// Run manually to generate articles.json locally with slugs and full articles
+
 import fs from "fs";
 import path from "path";
 import fetch from "node-fetch";
@@ -7,7 +10,7 @@ dotenv.config();
 const OPENAI_API_KEY = process.env.VITE_OPENAI_API_KEY;
 const NEWS_API_KEY = process.env.VITE_NEWS_API_KEY;
 
-const SLANTS = ["Neutral", "Conservative", "Progressive", "Populist"];
+const SLANTS = ["Neutral", "Conservative", "Progressive"];
 
 function slugify(title) {
   return title
