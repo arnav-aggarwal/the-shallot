@@ -1,4 +1,3 @@
-// src/pages/HomePage.jsx
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
@@ -65,13 +64,15 @@ export default function HomePage() {
           <p className="uppercase text-xs text-gray-500 mb-1">Featured</p>
           <Link to={`/article/${hero.slug}`} className="block hover:underline">
             <h2 className="text-2xl sm:text-3xl font-bold leading-tight mb-2">
-              {slant === "Neutral" ? hero.title : hero[slant.toLowerCase()]?.headline}
+              {slant === "Neutral"
+                ? hero.neutral.headline
+                : hero[slant.toLowerCase()]?.headline}
             </h2>
             <p className="text-base sm:text-lg text-gray-800 leading-relaxed">
               {(() => {
                 const body =
                   slant === "Neutral"
-                    ? hero.neutral
+                    ? hero.neutral.body
                     : hero[slant.toLowerCase()]?.body;
                 return body.length > 200 ? body.slice(0, 200) + "..." : body;
               })()}
@@ -84,7 +85,7 @@ export default function HomePage() {
         {remaining.map((article, index) => {
           const content =
             slant === "Neutral"
-              ? { headline: article.title, body: article.neutral }
+              ? article.neutral
               : article[slant.toLowerCase()];
           return (
             <Link

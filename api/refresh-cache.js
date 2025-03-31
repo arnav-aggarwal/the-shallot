@@ -10,7 +10,7 @@ dotenv();
 const OPENAI_KEY = process.env.VITE_OPENAI_API_KEY;
 const NEWS_API_KEY = process.env.VITE_NEWS_API_KEY;
 
-const SLANTS = ["Conservative", "Progressive", "Populist"];
+const SLANTS = ["Neutral", "Conservative", "Progressive", "Populist"];
 
 function slugify(title) {
   return title
@@ -19,8 +19,19 @@ function slugify(title) {
     .replace(/(^-|-$)+/g, "");
 }
 
+function generatePrompt(content, slant) {
+  let modifier = "";
+  if (slant === "Conservative") {
+    modifier = " Take a tone that is explicitly pro-Trump and frames his actions positively.";
+  } else if (slant === "Progressive") {
+    modifier = " Take a tone that is explicitly critical of Trump and frames his actions negatively.";
+  }
+
+  return `Rewrite the following article from a ${slant.toLowerCase()} perspective. Include a slanted headline and a full-length article (150–300 words). Be subtle, persuasive, and believable.${modifier}\n\nOriginal:\n"${content}"\n\nRewritten (${slant}):`;
+}
+
 const rewriteFullArticle = async (content, slant) => {
-  const prompt = `Rewrite the following article from a ${slant.toLowerCase()} perspective. Include a slanted headline and a full-length article (150–300 words). Be subtle, persuasive, and believable.\n\nOriginal:\n"${content}"\n\nRewritten (${slant}):`;
+  const prompt = generatePrompt(content, slant);
 
   const response = await fetch("https://api.openai.com/v1/chat/completions", {
     method: "POST",
@@ -66,17 +77,16 @@ export default async function handler(req, res) {
       news.articles.map(async (a) => {
         const title = a.title;
         const slug = slugify(title);
-        const neutral = a.description || a.content || "No summary available.";
+        const description = a.description || a.content || "No summary available.";
 
         const slants = {};
         for (const slant of SLANTS) {
-          slants[slant.toLowerCase()] = await rewriteFullArticle(neutral, slant);
+          slants[slant.toLowerCase()] = await rewriteFullArticle(description, slant);
         }
 
         return {
           title,
           slug,
-          neutral,
           ...slants,
         };
       })

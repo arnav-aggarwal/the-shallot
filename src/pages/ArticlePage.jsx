@@ -20,10 +20,7 @@ export default function ArticlePage() {
 
   if (!article) return <div className="p-8 text-gray-700">Loading...</div>;
 
-  const content =
-    slant === "Neutral"
-      ? { headline: article.title, body: article.neutral }
-      : article[slant.toLowerCase()];
+  const content = article[slant.toLowerCase()];
 
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-6 font-serif text-gray-900">
