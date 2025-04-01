@@ -48,7 +48,7 @@ Then visit: [http://localhost:5173](http://localhost:5173)
    - `VITE_NEWS_API_KEY`
 5. Deploy 🎉
 
-> `/api/refresh-cache.js` runs hourly via Vercel Cron.
+> `/api/refresh-cache.js` runs once per day at 6AM via Vercel Cron.
 
 ---
 
