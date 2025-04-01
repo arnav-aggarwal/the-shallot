@@ -43,6 +43,11 @@ export default function HomePage() {
       <header className="border-b pb-4 mb-6">
         <h1 className="text-3xl sm:text-4xl font-bold tracking-tight">🧅 The Shallot</h1>
         <p className="text-sm text-gray-600">Public Insight. Trusted Perspectives.</p>
+        {updatedAt && (
+          <p className="text-xs text-gray-500 mt-2">
+            Last updated: {formatTime(updatedAt)}
+          </p>
+        )}
       </header>
 
       <div className="mb-6 flex flex-wrap gap-2 sm:gap-3">
@@ -100,9 +105,9 @@ export default function HomePage() {
 
       <footer className="mt-10 pt-6 border-t text-xs sm:text-sm text-gray-500">
         <p>
-          This site is a demonstration of how AI-powered rewriting can alter the tone, content, and message of news. Always question the framing.
+          This site is a demonstration of how AI-powered rewriting can alter the tone and message of
+          news. Always question the framing.
         </p>
-        {updatedAt && <p className="mt-2">Last updated: {formatTime(updatedAt)}</p>}
       </footer>
     </div>
   );

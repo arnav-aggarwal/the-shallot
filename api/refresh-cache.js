@@ -77,6 +77,8 @@ export const config = {
 
 export default async function handler(req, res) {
   try {
+    console.log("Running refresh at", new Date().toISOString());
+
     const newsRes = await fetch(
       `https://newsapi.org/v2/top-headlines?sources=politico,the-hill,cnn,fox-news,msnbc&pageSize=6&apiKey=${NEWS_API_KEY}`
     );
