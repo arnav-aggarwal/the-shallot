@@ -68,8 +68,6 @@ Then visit: [http://localhost:5173](http://localhost:5173)
 |----------|--------------|
 | ![Home](public/screenshot-home.png) | ![Article](public/screenshot-article.png) |
 
-> Place your own screenshots in `/public/` to show off the UI
-
 ---
 
 ## 📜 Scripts
