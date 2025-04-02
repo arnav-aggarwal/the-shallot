@@ -1,5 +1,5 @@
 {
-  "cron": [
+  "crons": [
     {
       "path": "/api/refresh-cache",
       "schedule": "0 12 * * *"
