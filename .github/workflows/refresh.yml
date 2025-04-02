@@ -2,7 +2,7 @@ name: Refresh Articles and Deploy
 
 on:
   schedule:
-    - cron: '0 8,11,14,17,20,23,2 * * *' # 6AM, 9AM, 12PM, 3PM, 6PM, 9PM CDT (UTC times)
+    - cron: '0 17,20,23,2 * * *' # 12PM, 3PM, 6PM, 9PM CDT (UTC times)
   workflow_dispatch:
 
 jobs:
@@ -31,9 +31,12 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git add public/cache/articles.json || true
-          if ! git diff --cached --quiet; then
+
+          git add public/cache/articles.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
             git commit -m "Auto: refresh articles $(date -u)"
             git push
-          else
-            echo "No changes to commit."
+          fi
