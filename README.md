@@ -11,7 +11,7 @@
 - 🤖 AI rewrites using OpenAI API
 - 🎭 Toggle between neutral, conservative, and progressive perspectives
 - 🧠 Slant persists across pages using React context
-- 🕒 Automatic hourly cache refresh using Vercel scheduled functions
+- 🕒 Automatic cache refresh every 3 hours using Github Actions script
 - 💻 Fully responsive design using Tailwind CSS
 
 ---
@@ -48,8 +48,6 @@ Then visit: [http://localhost:5173](http://localhost:5173)
    - `VITE_NEWS_API_KEY`
 5. Deploy 🎉
 
-> `/api/refresh-cache.js` runs once per day at 6AM via Vercel Cron.
-
 ---
 
 ## 🧠 How It Works
@@ -75,12 +73,14 @@ Then visit: [http://localhost:5173](http://localhost:5173)
 - `npm run dev` — Start dev server
 - `npm run build` — Build production assets
 - `npm run preview` — Preview production build
-- `node scripts/refreshLocal.js` — Manually regenerate articles
+- `node scripts/refresh-cache.js` — Manually regenerate articles
 
 ---
 
 ## ⚠️ Disclaimer
-This is a satirical demo intended for education and media literacy. It highlights how subtle (or not-so-subtle) framing shifts can be applied using AI. Do not use this tool to misinform or manipulate.
+This is a demo intended for education and media literacy.
+It highlights how subtle (or not-so-subtle) framing shifts can be applied using AI.
+Do not use this tool to misinform or manipulate.
 
 ---
 
