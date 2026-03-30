@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-30T18:20:21.548Z",
+  "updatedAt": "2026-03-30T21:15:49.354Z",
   "articles": [
     {
-      "title": "Ex-Vikings star Joey Browner dead at 65",
-      "slug": "ex-vikings-star-joey-browner-dead-at-65",
+      "title": "Zuckerberg meeting ‘a slap in the face,’ says father who lost son to suicide after online scam | CNN Politics",
+      "slug": "zuckerberg-meeting-a-slap-in-the-face-says-father-who-lost-son-to-suicide-after-online-scam-cnn-politics",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "Daughter of Air Canada flight attendant ejected from crash provides update, details mother's injuries",
-      "slug": "daughter-of-air-canada-flight-attendant-ejected-from-crash-provides-update-details-mother-s-injuries",
+      "title": "Vacation rental near Yosemite allegedly used to secretly record guests, 4,000 illegal files found",
+      "slug": "vacation-rental-near-yosemite-allegedly-used-to-secretly-record-guests-4-000-illegal-files-found",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,24 +34,8 @@
       }
     },
     {
-      "title": "Watch live: NASA experts provide a status update on Artemis II launch | CNN",
-      "slug": "watch-live-nasa-experts-provide-a-status-update-on-artemis-ii-launch-cnn",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Kurt Russell reflects on humble upbringing, says he once lived in an attic in LA",
-      "slug": "kurt-russell-reflects-on-humble-upbringing-says-he-once-lived-in-an-attic-in-la",
+      "title": "The trial of Sam Bankman-Fried | CNN",
+      "slug": "the-trial-of-sam-bankman-fried-cnn",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +66,24 @@
       }
     },
     {
-      "title": "Bond girl Ursula Andress claims she was ‘deliberately chosen’ as victim in brazen theft of $23M fortune",
-      "slug": "bond-girl-ursula-andress-claims-she-was-deliberately-chosen-as-victim-in-brazen-theft-of-23m-fortune",
+      "title": "Cruz, Huckabee criticize Israel for blocking Latin patriarch on Palm Sunday",
+      "slug": "cruz-huckabee-criticize-israel-for-blocking-latin-patriarch-on-palm-sunday",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Mom missing for more than 24 years reunites with daughter | CNN",
+      "slug": "mom-missing-for-more-than-24-years-reunites-with-daughter-cnn",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
