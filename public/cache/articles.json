@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-11T18:10:46.628Z",
+  "updatedAt": "2026-04-11T21:10:02.648Z",
   "articles": [
     {
-      "title": "Brian Hooker arrested in connection with Lynette Hooker disappearance in the Bahamas",
-      "slug": "brian-hooker-arrested-in-connection-with-lynette-hooker-disappearance-in-the-bahamas",
+      "title": "Canadian politician goes viral for using sprawling LGBT acronym critics compare to a Wi-Fi password",
+      "slug": "canadian-politician-goes-viral-for-using-sprawling-lgbt-acronym-critics-compare-to-a-wi-fi-password",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "Chicago dad bludgeoned to death outside bar as police hunt for four persons of interest",
-      "slug": "chicago-dad-bludgeoned-to-death-outside-bar-as-police-hunt-for-four-persons-of-interest",
+      "title": "Suspect arrested after incendiary device thrown at OpenAI CEO Sam Altman’s home",
+      "slug": "suspect-arrested-after-incendiary-device-thrown-at-openai-ceo-sam-altman-s-home",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +34,24 @@
       }
     },
     {
-      "title": "Watch Fox News Channel Online | Stream Fox News",
-      "slug": "watch-fox-news-channel-online-stream-fox-news",
+      "title": "Coco Gauff ends social media hiatus to clap back at critics of her natural hair in latest ad",
+      "slug": "coco-gauff-ends-social-media-hiatus-to-clap-back-at-critics-of-her-natural-hair-in-latest-ad",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "Coco Gauff Embraces Confidence and Defies Critics by Rocking Natural Hair in Miu Miu Ad",
+        "body": "In a refreshing display of self-assurance and resilience, tennis star Coco Gauff has boldly stood up to her critics by proudly showcasing her natural hair in a recent Miu Miu ad. Gauff's unwavering confidence and refusal to conform to societal expectations are not only commendable but also serve as a powerful message to young women everywhere.\nDespite facing disparaging remarks about her natural hair, Gauff remained unapologetic and instead chose to embrace her authentic self. By encouraging others to do the same, she is fostering a culture of self-acceptance and empowerment.\nIn a world where conformity often reigns supreme, Gauff's decision to showcase her natural hair is a much-needed reminder that beauty comes in all forms and that individuality should be celebrated, not criticized. Her courage to defy societal norms is a testament to her strength of character and serves as an inspiration to those who may have felt pressured to conform to unrealistic standards.\nAs we celebrate Gauff's bold stance, let us also remember the importance of embracing our unique qualities and standing up against those who seek to tear us down. Kudos to Coco Gauff for setting a positive example and encouraging others to embrace their natural beauty with confidence and pride."
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Marriage status has surprising link to cancer risk, study suggests: 'Clear signal'",
+      "slug": "marriage-status-has-surprising-link-to-cancer-risk-study-suggests-clear-signal",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +66,8 @@
       }
     },
     {
-      "title": "Inside the DNC’s Middle East (not) working group",
-      "slug": "inside-the-dnc-s-middle-east-not-working-group",
+      "title": "Pete Buttigieg shares his ‘tough love’ advice for Democrats ahead of the midterms",
+      "slug": "pete-buttigieg-shares-his-tough-love-advice-for-democrats-ahead-of-the-midterms",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,24 +82,8 @@
       }
     },
     {
-      "title": "Pope Leo XIV condemns war, rejects claims of divine backing",
-      "slug": "pope-leo-xiv-condemns-war-rejects-claims-of-divine-backing",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Prince Harry sued by charity he founded in honor of Princess Diana",
-      "slug": "prince-harry-sued-by-charity-he-founded-in-honor-of-princess-diana",
+      "title": "Pacers fans go viral after animated conversation caught on camera during Nets game in Brooklyn",
+      "slug": "pacers-fans-go-viral-after-animated-conversation-caught-on-camera-during-nets-game-in-brooklyn",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
