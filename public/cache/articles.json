@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-13T12:24:38.246Z",
+  "updatedAt": "2026-04-13T15:30:59.885Z",
   "articles": [
     {
-      "title": "20 classic French dishes everyone needs to try",
-      "slug": "20-classic-french-dishes-everyone-needs-to-try",
+      "title": "Cowboy chef says phones and screens at dinner are tearing American families apart",
+      "slug": "cowboy-chef-says-phones-and-screens-at-dinner-are-tearing-american-families-apart",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "Toyota joins hydrogen truck alliance push",
-      "slug": "toyota-joins-hydrogen-truck-alliance-push",
+      "title": "Trump details sweeping 'all or nothing' blockade of Strait of Hormuz after failed Iran talks",
+      "slug": "trump-details-sweeping-all-or-nothing-blockade-of-strait-of-hormuz-after-failed-iran-talks",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,24 +34,8 @@
       }
     },
     {
-      "title": "Trump sends warning to China if it helps Iran with weapons | CNN Politics",
-      "slug": "trump-sends-warning-to-china-if-it-helps-iran-with-weapons-cnn-politics",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Carney casts himself as NATO defender amid Trump beef, despite Canada missing key benchmark for decades",
-      "slug": "carney-casts-himself-as-nato-defender-amid-trump-beef-despite-canada-missing-key-benchmark-for-decades",
+      "title": "Swalwell attorney denies misconduct, says congressman took accountability for 'lapses in judgment'",
+      "slug": "swalwell-attorney-denies-misconduct-says-congressman-took-accountability-for-lapses-in-judgment",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +66,24 @@
       }
     },
     {
-      "title": "Queen Camilla and Kate Middleton’s royal battle over blue sparked palace tension: expert",
-      "slug": "queen-camilla-and-kate-middleton-s-royal-battle-over-blue-sparked-palace-tension-expert",
+      "title": "Trump orders Strait of Hormuz blockade after peace talks fail",
+      "slug": "trump-orders-strait-of-hormuz-blockade-after-peace-talks-fail",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Ex-Biden staffer claims accidental shot killed girlfriend as dad blasts toxic, abusive relationship: report",
+      "slug": "ex-biden-staffer-claims-accidental-shot-killed-girlfriend-as-dad-blasts-toxic-abusive-relationship-report",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
