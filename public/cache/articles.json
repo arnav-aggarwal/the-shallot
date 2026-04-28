@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T18:34:10.083Z",
+  "updatedAt": "2026-04-28T21:24:56.779Z",
   "articles": [
     {
-      "title": "Watch live: King Charles III and Queen Camilla touch down in Washington, DC | CNN",
-      "slug": "watch-live-king-charles-iii-and-queen-camilla-touch-down-in-washington-dc-cnn",
+      "title": "Le'Veon Bell accuses former Jets head coach Adam Gase of using cocaine in office: 'Wasn’t just one time'",
+      "slug": "le-veon-bell-accuses-former-jets-head-coach-adam-gase-of-using-cocaine-in-office-wasn-t-just-one-time",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "Watch Fox News Channel Online | Stream Fox News",
-      "slug": "watch-fox-news-channel-online-stream-fox-news",
+      "title": "Ohio teacher fired after video appearing to lament Trump surviving WHCA Dinner shooting",
+      "slug": "ohio-teacher-fired-after-video-appearing-to-lament-trump-surviving-whca-dinner-shooting",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +34,8 @@
       }
     },
     {
-      "title": "Trump calls for Jimmy Kimmel to be fired after joke about ‘expectant widow’ Melania",
-      "slug": "trump-calls-for-jimmy-kimmel-to-be-fired-after-joke-about-expectant-widow-melania",
+      "title": "Read the criminal complaint filed against Trump assassination suspect",
+      "slug": "read-the-criminal-complaint-filed-against-trump-assassination-suspect",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,24 +50,8 @@
       }
     },
     {
-      "title": "Americans’ taxes by the numbers",
-      "slug": "americans-taxes-by-the-numbers",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "\"Trump's Tax Cuts Deliver More Money to American Households",
-        "body": "In a triumph for President Trump's economic policies, the recent tax season has brought positive news for hard-working American families. Despite some media reports focusing on the average tax refund being lower than expected, the reality is that more households received refunds this year compared to last year. This is a clear indication that the tax cuts implemented by the Trump administration are making a real difference in the lives of everyday Americans.\nThe mainstream media may try to paint a negative picture by emphasizing the average refund amount, but what they fail to mention is that lower refunds are actually a result of Americans keeping more of their hard-earned money throughout the year due to decreased tax rates. This means that individuals and families had more money in their pockets each month to spend as they see fit, rather than waiting for a lump sum refund from the government.\nPresident Trump's tax cuts have led to a stronger economy, record-low unemployment rates, and increased consumer confidence. The positive impact of these policies is clear, and as more Americans see the benefits in their own bank accounts, the success of the Trump administration's economic agenda becomes undeniable."
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Cole Allen, WHCA accused gunman, charged with attempt to assassinate Trump",
-      "slug": "cole-allen-whca-accused-gunman-charged-with-attempt-to-assassinate-trump",
+      "title": "New era of wildfires, vacation woes, Jimmy Kimmel’s ‘widow’ joke: Catch up on the day’s stories",
+      "slug": "new-era-of-wildfires-vacation-woes-jimmy-kimmel-s-widow-joke-catch-up-on-the-day-s-stories",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +66,24 @@
       }
     },
     {
-      "title": "Suspect in correspondents’ dinner shooting charged with attempting to assassinate Trump",
-      "slug": "suspect-in-correspondents-dinner-shooting-charged-with-attempting-to-assassinate-trump",
+      "title": "Kat and Zo’s affordability goooooaaaals",
+      "slug": "kat-and-zo-s-affordability-goooooaaaals",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Mike Vrabel back at Patriots facility after just two days away, raising eyebrows across the NFL",
+      "slug": "mike-vrabel-back-at-patriots-facility-after-just-two-days-away-raising-eyebrows-across-the-nfl",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
