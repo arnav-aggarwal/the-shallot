@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-28T15:49:03.502Z",
+  "updatedAt": "2026-04-28T18:34:10.083Z",
   "articles": [
     {
-      "title": "Melania Trump rips WHCA sketch recorded before shooting: ‘Kimmel hides behind ABC’",
-      "slug": "melania-trump-rips-whca-sketch-recorded-before-shooting-kimmel-hides-behind-abc",
+      "title": "Watch live: King Charles III and Queen Camilla touch down in Washington, DC | CNN",
+      "slug": "watch-live-king-charles-iii-and-queen-camilla-touch-down-in-washington-dc-cnn",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "Obama sets internet ablaze with 'sick' reaction to the 'motive' of WHCD shooter",
-      "slug": "obama-sets-internet-ablaze-with-sick-reaction-to-the-motive-of-whcd-shooter",
+      "title": "Watch Fox News Channel Online | Stream Fox News",
+      "slug": "watch-fox-news-channel-online-stream-fox-news",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +34,8 @@
       }
     },
     {
-      "title": "The 1 on 1 with CNN | CNN",
-      "slug": "the-1-on-1-with-cnn-cnn",
+      "title": "Trump calls for Jimmy Kimmel to be fired after joke about ‘expectant widow’ Melania",
+      "slug": "trump-calls-for-jimmy-kimmel-to-be-fired-after-joke-about-expectant-widow-melania",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +50,24 @@
       }
     },
     {
-      "title": "Melania Trump calls for ABC to ‘take a stand’ against Jimmy Kimmel over ‘hateful and violent rhetoric'",
-      "slug": "melania-trump-calls-for-abc-to-take-a-stand-against-jimmy-kimmel-over-hateful-and-violent-rhetoric",
+      "title": "Americans’ taxes by the numbers",
+      "slug": "americans-taxes-by-the-numbers",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "\"Trump's Tax Cuts Deliver More Money to American Households",
+        "body": "In a triumph for President Trump's economic policies, the recent tax season has brought positive news for hard-working American families. Despite some media reports focusing on the average tax refund being lower than expected, the reality is that more households received refunds this year compared to last year. This is a clear indication that the tax cuts implemented by the Trump administration are making a real difference in the lives of everyday Americans.\nThe mainstream media may try to paint a negative picture by emphasizing the average refund amount, but what they fail to mention is that lower refunds are actually a result of Americans keeping more of their hard-earned money throughout the year due to decreased tax rates. This means that individuals and families had more money in their pockets each month to spend as they see fit, rather than waiting for a lump sum refund from the government.\nPresident Trump's tax cuts have led to a stronger economy, record-low unemployment rates, and increased consumer confidence. The positive impact of these policies is clear, and as more Americans see the benefits in their own bank accounts, the success of the Trump administration's economic agenda becomes undeniable."
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Cole Allen, WHCA accused gunman, charged with attempt to assassinate Trump",
+      "slug": "cole-allen-whca-accused-gunman-charged-with-attempt-to-assassinate-trump",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,24 +82,8 @@
       }
     },
     {
-      "title": "Trump reveals a 'big politician on the other side' asked to hug him after dinner shooting",
-      "slug": "trump-reveals-a-big-politician-on-the-other-side-asked-to-hug-him-after-dinner-shooting",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Collapse of Jerome Powell case adds to Jeanine Pirro’s embarrassing losing streak",
-      "slug": "collapse-of-jerome-powell-case-adds-to-jeanine-pirro-s-embarrassing-losing-streak",
+      "title": "Suspect in correspondents’ dinner shooting charged with attempting to assassinate Trump",
+      "slug": "suspect-in-correspondents-dinner-shooting-charged-with-attempting-to-assassinate-trump",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
