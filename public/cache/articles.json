@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-29T21:25:05.775Z",
+  "updatedAt": "2026-04-30T00:38:38.880Z",
   "articles": [
     {
-      "title": "Are we sure Mike Vrabel will survive Russini scandal and coach Patriots this season?",
-      "slug": "are-we-sure-mike-vrabel-will-survive-russini-scandal-and-coach-patriots-this-season",
+      "title": "Vermont pays $566K in damages to Christian school it banned from all sports competitions for years",
+      "slug": "vermont-pays-566k-in-damages-to-christian-school-it-banned-from-all-sports-competitions-for-years",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,40 @@
       }
     },
     {
-      "title": "‘This indictment is deeply flawed.’ Elie Honig reacts to new criminal charges against former FBI Director James Comey | CNN",
-      "slug": "this-indictment-is-deeply-flawed-elie-honig-reacts-to-new-criminal-charges-against-former-fbi-director-james-comey-cnn",
+      "title": "JONATHAN TURLEY: Comey’s shell post may be crass, but charging him is a free speech trap",
+      "slug": "jonathan-turley-comey-s-shell-post-may-be-crass-but-charging-him-is-a-free-speech-trap",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Ex-NFL defensive end Josh Mauro dead at 35 as family shares emotional social media tribute",
+      "slug": "ex-nfl-defensive-end-josh-mauro-dead-at-35-as-family-shares-emotional-social-media-tribute",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Here’s what’s on the White House’s state dinner menu for King Charles",
+      "slug": "here-s-what-s-on-the-white-house-s-state-dinner-menu-for-king-charles",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,40 +82,8 @@
       }
     },
     {
-      "title": "DOJ indicts James Comey again amid probe tied to ‘86 47’ shell post",
-      "slug": "doj-indicts-james-comey-again-amid-probe-tied-to-86-47-shell-post",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "A rare Mamdani-Menin alliance",
-      "slug": "a-rare-mamdani-menin-alliance",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Patel turns tables on Walz in response to viral tweet on Minnesota fraud raids: 'Come again?'",
-      "slug": "patel-turns-tables-on-walz-in-response-to-viral-tweet-on-minnesota-fraud-raids-come-again",
+      "title": "New IRA bombing fuels fears of global militant network tied to Iran, Hezbollah",
+      "slug": "new-ira-bombing-fuels-fears-of-global-militant-network-tied-to-iran-hezbollah",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
