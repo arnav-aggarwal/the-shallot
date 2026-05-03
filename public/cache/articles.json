@@ -1,9 +1,41 @@
 {
-  "updatedAt": "2026-05-03T15:16:36.209Z",
+  "updatedAt": "2026-05-03T18:19:23.301Z",
   "articles": [
     {
-      "title": "Artemis II crew tells us why Nutella tastes different in space | CNN",
-      "slug": "artemis-ii-crew-tells-us-why-nutella-tastes-different-in-space-cnn",
+      "title": "Bill Maher denounces those disappointed Trump wasn't killed at WHCA Dinner, says, ‘You’re not a good person’",
+      "slug": "bill-maher-denounces-those-disappointed-trump-wasn-t-killed-at-whca-dinner-says-you-re-not-a-good-person",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "'Scarface' mansion in Florida hits the market for $237 million",
+      "slug": "scarface-mansion-in-florida-hits-the-market-for-237-million",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "‘A two-edge sword’: Former top ICE official’s campaign roils battleground district",
+      "slug": "a-two-edge-sword-former-top-ice-official-s-campaign-roils-battleground-district",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +66,8 @@
       }
     },
     {
-      "title": "ICE lines up to boot illegal immigrant child sex predator after bogus asylum claim, early prison release",
-      "slug": "ice-lines-up-to-boot-illegal-immigrant-child-sex-predator-after-bogus-asylum-claim-early-prison-release",
+      "title": "Seattle's socialist Mayor Katie Wilson slammed for cutting short interview over basic public safety question",
+      "slug": "seattle-s-socialist-mayor-katie-wilson-slammed-for-cutting-short-interview-over-basic-public-safety-question",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,40 +82,8 @@
       }
     },
     {
-      "title": "DAVID MARCUS: Rise of Marxism is a hyrdra Democrats created but can't control",
-      "slug": "david-marcus-rise-of-marxism-is-a-hyrdra-democrats-created-but-can-t-control",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Over 20,000 attend illegal rave on ‘dangerous’ French military site",
-      "slug": "over-20-000-attend-illegal-rave-on-dangerous-french-military-site",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Dan Bongino reveals he fears ‘federal prison’ in chilling claim after year at the FBI",
-      "slug": "dan-bongino-reveals-he-fears-federal-prison-in-chilling-claim-after-year-at-the-fbi",
+      "title": "Top Republicans say Trump pulling troops from Germany sends ‘wrong signal’ to Putin",
+      "slug": "top-republicans-say-trump-pulling-troops-from-germany-sends-wrong-signal-to-putin",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
