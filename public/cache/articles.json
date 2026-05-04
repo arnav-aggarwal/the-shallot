@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-03T21:16:22.126Z",
+  "updatedAt": "2026-05-04T00:38:24.686Z",
   "articles": [
     {
-      "title": "Kentucky Derby 2026: Race favorites, celebrity buzz and fashion trends take over Churchill Downs",
-      "slug": "kentucky-derby-2026-race-favorites-celebrity-buzz-and-fashion-trends-take-over-churchill-downs",
+      "title": "Americans continue voting with their feet as high-tax cities struggle to recover",
+      "slug": "americans-continue-voting-with-their-feet-as-high-tax-cities-struggle-to-recover",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "Emergency appeal asks Supreme Court to restore abortion pill access",
-      "slug": "emergency-appeal-asks-supreme-court-to-restore-abortion-pill-access",
+      "title": "Golden Tempo wins 2026 Kentucky Derby",
+      "slug": "golden-tempo-wins-2026-kentucky-derby",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +34,24 @@
       }
     },
     {
-      "title": "Spirit Airlines to shutter after no Trump deal: What to know",
-      "slug": "spirit-airlines-to-shutter-after-no-trump-deal-what-to-know",
+      "title": "Travelers left scrambling amid Spirit shutdown | CNN",
+      "slug": "travelers-left-scrambling-amid-spirit-shutdown-cnn",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Lisa Kudrow still earns $20M a year in residuals from 'Friends' more than 30 years after show premiered",
+      "slug": "lisa-kudrow-still-earns-20m-a-year-in-residuals-from-friends-more-than-30-years-after-show-premiered",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,24 +82,8 @@
       }
     },
     {
-      "title": "1 dead after car slams into lavish Portland social club, investigators uncover possible explosives",
-      "slug": "1-dead-after-car-slams-into-lavish-portland-social-club-investigators-uncover-possible-explosives",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Jerry Seinfeld rips electric cars as ‘stupid virtue signal,’ has zero interest",
-      "slug": "jerry-seinfeld-rips-electric-cars-as-stupid-virtue-signal-has-zero-interest",
+      "title": "Sen Warren blasted for cheering blocking of merger that might have saved Spirit Airlines",
+      "slug": "sen-warren-blasted-for-cheering-blocking-of-merger-that-might-have-saved-spirit-airlines",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
