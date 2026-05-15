@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-15T12:39:03.952Z",
+  "updatedAt": "2026-05-15T15:43:43.911Z",
   "articles": [
     {
-      "title": "CBS anchor frantically calls for doctor after cameraman suffers medical emergency during live broadcast",
-      "slug": "cbs-anchor-frantically-calls-for-doctor-after-cameraman-suffers-medical-emergency-during-live-broadcast",
+      "title": "Obama defends Iran nuclear deal on Colbert | CNN Politics",
+      "slug": "obama-defends-iran-nuclear-deal-on-colbert-cnn-politics",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,40 @@
       }
     },
     {
-      "title": "Dem Senate hopeful’s ‘physician’ campaign pitch under fire after license records reveal key gaps",
-      "slug": "dem-senate-hopeful-s-physician-campaign-pitch-under-fire-after-license-records-reveal-key-gaps",
+      "title": "Final Walz fraud report rips ‘culture of tolerance’ as Minnesota taxpayers face billions in alleged losses",
+      "slug": "final-walz-fraud-report-rips-culture-of-tolerance-as-minnesota-taxpayers-face-billions-in-alleged-losses",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Watch live: Senate Armed Services Committee reviews 2027 defense budget request | CNN",
+      "slug": "watch-live-senate-armed-services-committee-reviews-2027-defense-budget-request-cnn",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "What the Founding Fathers would tell AOC about the American Revolution",
+      "slug": "what-the-founding-fathers-would-tell-aoc-about-the-american-revolution",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,40 +82,8 @@
       }
     },
     {
-      "title": "Leading challenger to UK Prime Minister Keir Starmer quits government",
-      "slug": "leading-challenger-to-uk-prime-minister-keir-starmer-quits-government",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Massie's ex-girlfriend alleges he arranged her Capitol Hill job, then offered $5,000 to drop termination suit",
-      "slug": "massie-s-ex-girlfriend-alleges-he-arranged-her-capitol-hill-job-then-offered-5-000-to-drop-termination-suit",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Politics is a family business for these 2026 candidates. Voters may not care.",
-      "slug": "politics-is-a-family-business-for-these-2026-candidates-voters-may-not-care",
+      "title": "What is ‘Thucydides trap,’ mentioned during Trump-Xi meeting?",
+      "slug": "what-is-thucydides-trap-mentioned-during-trump-xi-meeting",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
