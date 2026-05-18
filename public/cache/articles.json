@@ -1,9 +1,25 @@
 {
-  "updatedAt": "2026-05-18T18:37:50.392Z",
+  "updatedAt": "2026-05-18T21:28:11.932Z",
   "articles": [
     {
-      "title": "Trump warns Iran ‘clock is ticking’ as peace negotiations stall",
-      "slug": "trump-warns-iran-clock-is-ticking-as-peace-negotiations-stall",
+      "title": "NY governor blamed for 'lack of leadership' as railroad strike disrupts more than 300,000 commuters",
+      "slug": "ny-governor-blamed-for-lack-of-leadership-as-railroad-strike-disrupts-more-than-300-000-commuters",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Jessica Alba stuns in sports bra selfie after 'get it done' gym session",
+      "slug": "jessica-alba-stuns-in-sports-bra-selfie-after-get-it-done-gym-session",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +50,8 @@
       }
     },
     {
-      "title": "California trans athlete podium controversy ignites outrage among politicians, activists",
-      "slug": "california-trans-athlete-podium-controversy-ignites-outrage-among-politicians-activists",
+      "title": "GOP lawmakers battle as conservatives press for third budget reconciliation bill",
+      "slug": "gop-lawmakers-battle-as-conservatives-press-for-third-budget-reconciliation-bill",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +66,8 @@
       }
     },
     {
-      "title": "MotoGP racer hurtles through the air in terrifying crash, suffers serious injuries",
-      "slug": "motogp-racer-hurtles-through-the-air-in-terrifying-crash-suffers-serious-injuries",
+      "title": "Sen Kennedy says Trump still has ‘huge impact’ after Louisiana election shakes GOP establishment",
+      "slug": "sen-kennedy-says-trump-still-has-huge-impact-after-louisiana-election-shakes-gop-establishment",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,24 +82,8 @@
       }
     },
     {
-      "title": "Senate parliamentarian rejects $1 billion in reconciliation bill for White House security, Trump ballroom",
-      "slug": "senate-parliamentarian-rejects-1-billion-in-reconciliation-bill-for-white-house-security-trump-ballroom",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Kara Swisher Wants to Live Forever | CNN",
-      "slug": "kara-swisher-wants-to-live-forever-cnn",
+      "title": "Trump to convene Situation Room meeting as Iran threatens US Gulf bases",
+      "slug": "trump-to-convene-situation-room-meeting-as-iran-threatens-us-gulf-bases",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
