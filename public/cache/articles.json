@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-19T16:07:13.823Z",
+  "updatedAt": "2026-05-19T18:38:34.076Z",
   "articles": [
     {
-      "title": "Morgan Wallen fans erupt with rage after country star is snubbed at popular awards show",
-      "slug": "morgan-wallen-fans-erupt-with-rage-after-country-star-is-snubbed-at-popular-awards-show",
+      "title": "Paul McCartney says Beatles classic unites audiences 'in Trump’s America' despite political divide",
+      "slug": "paul-mccartney-says-beatles-classic-unites-audiences-in-trump-s-america-despite-political-divide",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "Watch live: CNN explains key ruling in trial for Luigi Mangione as judge decides what evidence can be shown | CNN",
-      "slug": "watch-live-cnn-explains-key-ruling-in-trial-for-luigi-mangione-as-judge-decides-what-evidence-can-be-shown-cnn",
+      "title": "Michelle Obama warns liberals against pigeonholing Trump voters, says they didn't know what else to do",
+      "slug": "michelle-obama-warns-liberals-against-pigeonholing-trump-voters-says-they-didn-t-know-what-else-to-do",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +34,8 @@
       }
     },
     {
-      "title": "Rai does it his way to win PGA, pointless Aronimink criticism, player grades and an important message",
-      "slug": "rai-does-it-his-way-to-win-pga-pointless-aronimink-criticism-player-grades-and-an-important-message",
+      "title": "ICE officer charged with assault in shooting during Minneapolis immigration crackdown",
+      "slug": "ice-officer-charged-with-assault-in-shooting-during-minneapolis-immigration-crackdown",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +50,24 @@
       }
     },
     {
-      "title": "A potential helipad and new parking spots are the latest changes at the White House",
-      "slug": "a-potential-helipad-and-new-parking-spots-are-the-latest-changes-at-the-white-house",
+      "title": "Millions are going hungry, and Trump’s tax cuts are to blame",
+      "slug": "millions-are-going-hungry-and-trump-s-tax-cuts-are-to-blame",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Murdaugh sues former court clerk whose actions caused his murder convictions to then be vacated",
+      "slug": "murdaugh-sues-former-court-clerk-whose-actions-caused-his-murder-convictions-to-then-be-vacated",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -68,22 +84,6 @@
     {
       "title": "Luigi Mangione update: Suspected murder weapon admissible at trial in state case, other evidence suppressed",
       "slug": "luigi-mangione-update-suspected-murder-weapon-admissible-at-trial-in-state-case-other-evidence-suppressed",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Pentagon says Hegseth campaigning against Massie in ‘personal capacity’",
-      "slug": "pentagon-says-hegseth-campaigning-against-massie-in-personal-capacity",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
