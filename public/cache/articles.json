@@ -1,9 +1,25 @@
 {
-  "updatedAt": "2026-05-20T16:11:20.590Z",
+  "updatedAt": "2026-05-20T18:49:04.849Z",
   "articles": [
     {
-      "title": "Watch live: Ex-assistant principal faces charges after 6-year-old student shot teacher | CNN",
-      "slug": "watch-live-ex-assistant-principal-faces-charges-after-6-year-old-student-shot-teacher-cnn",
+      "title": "WATCH LIVE: Senate hearing on Supreme Court and racial gerrymandering | Fox News Video",
+      "slug": "watch-live-senate-hearing-on-supreme-court-and-racial-gerrymandering-fox-news-video",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "JD Vance says Trump is 'locked and loaded' to restart military campaign against Iran if nuclear talks fail",
+      "slug": "jd-vance-says-trump-is-locked-and-loaded-to-restart-military-campaign-against-iran-if-nuclear-talks-fail",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +50,8 @@
       }
     },
     {
-      "title": "Inside the trans athlete podium controversy sending political shockwaves in California ahead of elections",
-      "slug": "inside-the-trans-athlete-podium-controversy-sending-political-shockwaves-in-california-ahead-of-elections",
+      "title": "WATCH: Dem senator snaps after Acting AG Blanche accuses him of 'obviously lying' in heated exchange",
+      "slug": "watch-dem-senator-snaps-after-acting-ag-blanche-accuses-him-of-obviously-lying-in-heated-exchange",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +66,8 @@
       }
     },
     {
-      "title": "Alleged shooters in Islamic Center of San Diego attack identified as Cain Clark and Caleb Velasquez: report",
-      "slug": "alleged-shooters-in-islamic-center-of-san-diego-attack-identified-as-cain-clark-and-caleb-velasquez-report",
+      "title": "'The Apprentice' star Sebastian Stan blasted as 'out of touch' for anti-Trump meltdown at Cannes",
+      "slug": "the-apprentice-star-sebastian-stan-blasted-as-out-of-touch-for-anti-trump-meltdown-at-cannes",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,24 +82,8 @@
       }
     },
     {
-      "title": "‘The beneficiary of all this is Jon Ossoff’: Georgia GOP steels for messy runoff",
-      "slug": "the-beneficiary-of-all-this-is-jon-ossoff-georgia-gop-steels-for-messy-runoff",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Meet the American woman making welding history | CNN",
-      "slug": "meet-the-american-woman-making-welding-history-cnn",
+      "title": "Civil liberty advocates sue blue state over 'show your papers' gun law",
+      "slug": "civil-liberty-advocates-sue-blue-state-over-show-your-papers-gun-law",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
