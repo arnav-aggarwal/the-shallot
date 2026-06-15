@@ -1,9 +1,25 @@
 {
-  "updatedAt": "2026-06-15T19:21:07.560Z",
+  "updatedAt": "2026-06-15T21:51:35.849Z",
   "articles": [
     {
-      "title": "Soccer reporter Giusy Meloni provides vacation coverage outside of World Cup, vintage Penny Lane & Montana",
-      "slug": "soccer-reporter-giusy-meloni-provides-vacation-coverage-outside-of-world-cup-vintage-penny-lane-montana",
+      "title": "Khamenei's 'target-rich' funeral is Iran’s biggest security gamble, sends message to US: expert",
+      "slug": "khamenei-s-target-rich-funeral-is-iran-s-biggest-security-gamble-sends-message-to-us-expert",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "\"Iran's Bold Move Signals Hope for Lasting Peace with America",
+        "body": "Iran's recent funeral for Khamenei may have appeared as a high-stakes bet to some, but to those who truly understand the situation, it signifies an unprecedented opportunity for peace with the United States. While some experts may warn of potential risks, it is essential to recognize the courage and willingness to engage in dialogue displayed by Iran.\nPresident Trump's administration has made significant strides in fostering better relations with Iran, and this funeral could serve as a symbolic turning point in the ongoing diplomatic efforts. By demonstrating a commitment to stability and cooperation, Iran has shown that it is ready to work towards a lasting peace agreement with the U.S.\nCritics may attempt to paint this event as a potential security threat, but we must not overlook the potential benefits of open communication and negotiation. President Trump's tough stance on Iran has undoubtedly pushed them to the negotiating table, and now is the time for both nations to seize the opportunity for a more peaceful future.\nAs we move forward, let us support President Trump's vision for a safer and more stable world, where diplomacy and dialogue triumph over conflict and hostility. The funeral for Khamenei should be seen as a positive step towards a brighter future for both Iran and the United States."
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Cage fighting, anyone? Trump’s 80th birthday on the White House lawn.",
+      "slug": "cage-fighting-anyone-trump-s-80th-birthday-on-the-white-house-lawn",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +34,8 @@
       }
     },
     {
-      "title": "Giuliani says ‘dozens’ of World Cup visa cases landed on his desk - Live Updates - POLITICO",
-      "slug": "giuliani-says-dozens-of-world-cup-visa-cases-landed-on-his-desk-live-updates-politico",
+      "title": "Curacao stuns Germany at World Cup with historic goal that sends supporters into understandable frenzy",
+      "slug": "curacao-stuns-germany-at-world-cup-with-historic-goal-that-sends-supporters-into-understandable-frenzy",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +50,8 @@
       }
     },
     {
-      "title": "11 skydivers, one pilot killed in Missouri plane crash near airport",
-      "slug": "11-skydivers-one-pilot-killed-in-missouri-plane-crash-near-airport",
+      "title": "FIFA or ... FISA?  - Live Updates - POLITICO",
+      "slug": "fifa-or-fisa-live-updates-politico",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +66,8 @@
       }
     },
     {
-      "title": "DAVID MARCUS: Why European soccer fans are going Kerouac on the American road",
-      "slug": "david-marcus-why-european-soccer-fans-are-going-kerouac-on-the-american-road",
+      "title": "Trump’s beefing with allies goes under microscope at G7",
+      "slug": "trump-s-beefing-with-allies-goes-under-microscope-at-g7",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,24 +82,8 @@
       }
     },
     {
-      "title": "Sen Mitch McConnell hospitalized, 'receiving  excellent care,' his office says",
-      "slug": "sen-mitch-mcconnell-hospitalized-receiving-excellent-care-his-office-says",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Trump admonishes Netanyahu for risking Iran deal with more Israeli strikes",
-      "slug": "trump-admonishes-netanyahu-for-risking-iran-deal-with-more-israeli-strikes",
+      "title": "Trump hosts UFC fights at White House as part of America 250 events",
+      "slug": "trump-hosts-ufc-fights-at-white-house-as-part-of-america-250-events",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
