@@ -1,9 +1,57 @@
 {
-  "updatedAt": "2026-06-18T13:11:10.226Z",
+  "updatedAt": "2026-06-18T16:10:07.906Z",
   "articles": [
     {
-      "title": "Trump: If Iran misbehaves, US will go ‘back to dropping bombs’ | CNN",
-      "slug": "trump-if-iran-misbehaves-us-will-go-back-to-dropping-bombs-cnn",
+      "title": "Gilgo Beach serial killer Rex Heuermann slammed as ‘small man’ as judge gives max sentence for murder spree",
+      "slug": "gilgo-beach-serial-killer-rex-heuermann-slammed-as-small-man-as-judge-gives-max-sentence-for-murder-spree",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Stream the CNN experience now | CNN",
+      "slug": "stream-the-cnn-experience-now-cnn",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Watch live: District Attorney speaks after Long Island serial killer Rex Heuermann is sentenced for Gilgo Beach murders | CNN",
+      "slug": "watch-live-district-attorney-speaks-after-long-island-serial-killer-rex-heuermann-is-sentenced-for-gilgo-beach-murders-cnn",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Hillary Clinton hammers Joe Biden for 2024 reelection bid despite supporting campaign: 'terrible mistake'",
+      "slug": "hillary-clinton-hammers-joe-biden-for-2024-reelection-bid-despite-supporting-campaign-terrible-mistake",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,56 +82,8 @@
       }
     },
     {
-      "title": "Cocky Texas slugger who hit for cycle gets dealt instant karma after childish antics grow stale",
-      "slug": "cocky-texas-slugger-who-hit-for-cycle-gets-dealt-instant-karma-after-childish-antics-grow-stale",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Primary election results from California, Georgia, DC, Alabama, Oklahoma",
-      "slug": "primary-election-results-from-california-georgia-dc-alabama-oklahoma",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Trump calls $300B Iran investment report 'false,' warns US could resume bombing",
-      "slug": "trump-calls-300b-iran-investment-report-false-warns-us-could-resume-bombing",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Ozempic users may be making a major weight-loss mistake, new study suggests",
-      "slug": "ozempic-users-may-be-making-a-major-weight-loss-mistake-new-study-suggests",
+      "title": "Roy Moore seeks emergency Supreme Court help in defamation appeal",
+      "slug": "roy-moore-seeks-emergency-supreme-court-help-in-defamation-appeal",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
