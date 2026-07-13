@@ -1,9 +1,41 @@
 {
-  "updatedAt": "2026-07-13T17:10:29.519Z",
+  "updatedAt": "2026-07-13T19:19:16.712Z",
   "articles": [
     {
-      "title": "This blue city attracted more taxpayers than anywhere else — but lost billions in wealth",
-      "slug": "this-blue-city-attracted-more-taxpayers-than-anywhere-else-but-lost-billions-in-wealth",
+      "title": "Caitlin Clark vs Paige Bueckers: How two White WNBA stars wound up with vastly different cultural perceptions",
+      "slug": "caitlin-clark-vs-paige-bueckers-how-two-white-wnba-stars-wound-up-with-vastly-different-cultural-perceptions",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Graham's death ignites GOP scramble for Senate seat as Trump hints he already has a favorite",
+      "slug": "graham-s-death-ignites-gop-scramble-for-senate-seat-as-trump-hints-he-already-has-a-favorite",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Texas Hispanics swung hard to Trump. A new poll shows they’re furious at his deportations.",
+      "slug": "texas-hispanics-swung-hard-to-trump-a-new-poll-shows-they-re-furious-at-his-deportations",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -52,38 +84,6 @@
     {
       "title": "Matt Damon was 'pushed to the limit' while filming 'The Odyssey,' details grueling physical discomforts",
       "slug": "matt-damon-was-pushed-to-the-limit-while-filming-the-odyssey-details-grueling-physical-discomforts",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "GOP Sen. Lindsey Graham dies at 71 after 'brief and sudden illness'",
-      "slug": "gop-sen-lindsey-graham-dies-at-71-after-brief-and-sudden-illness",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "After a year of tariffs, automakers are still resistant to moving production to the US",
-      "slug": "after-a-year-of-tariffs-automakers-are-still-resistant-to-moving-production-to-the-us",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
