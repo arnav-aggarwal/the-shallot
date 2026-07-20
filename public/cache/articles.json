@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-20T19:39:40.843Z",
+  "updatedAt": "2026-07-20T21:57:15.819Z",
   "articles": [
     {
-      "title": "Trump takes in Jennifer Hudson's incredible national anthem performance before World Cup final",
-      "slug": "trump-takes-in-jennifer-hudson-s-incredible-national-anthem-performance-before-world-cup-final",
+      "title": "Spain beats Argentina to win 2026 FIFA World Cup behind Ferran Torres' extra-time goal",
+      "slug": "spain-beats-argentina-to-win-2026-fifa-world-cup-behind-ferran-torres-extra-time-goal",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "Trump’s speech on election interference was full of old facts and fake news",
-      "slug": "trump-s-speech-on-election-interference-was-full-of-old-facts-and-fake-news",
+      "title": "First World Cup halftime show draws mixed reactions for Shakira, Justin Bieber, BTS, Madonna performances",
+      "slug": "first-world-cup-halftime-show-draws-mixed-reactions-for-shakira-justin-bieber-bts-madonna-performances",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,24 +34,8 @@
       }
     },
     {
-      "title": "Europeans say ugh to half-time show - Live Updates - POLITICO",
-      "slug": "europeans-say-ugh-to-half-time-show-live-updates-politico",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Second death reported in Upper East Side Legionnaires' disease outbreak as cases rise to 72",
-      "slug": "second-death-reported-in-upper-east-side-legionnaires-disease-outbreak-as-cases-rise-to-72",
+      "title": "It's Giuliani (extra) time - Live Updates - POLITICO",
+      "slug": "it-s-giuliani-extra-time-live-updates-politico",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +66,24 @@
       }
     },
     {
-      "title": "'They're trying not to pay their bills': Sherrill unhappy with FIFA as World Cup wraps up - Live Updates - POLITICO",
-      "slug": "they-re-trying-not-to-pay-their-bills-sherrill-unhappy-with-fifa-as-world-cup-wraps-up-live-updates-politico",
+      "title": "'We want land invasion': Iran mouthpiece touts new missile, boasts decades of war prep",
+      "slug": "we-want-land-invasion-iran-mouthpiece-touts-new-missile-boasts-decades-of-war-prep",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Tipster charged with murder after police say anonymous call helped solve 30-year disappearance",
+      "slug": "tipster-charged-with-murder-after-police-say-anonymous-call-helped-solve-30-year-disappearance",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
