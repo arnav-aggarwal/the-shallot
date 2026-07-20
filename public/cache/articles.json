@@ -1,9 +1,57 @@
 {
-  "updatedAt": "2026-07-20T13:58:42.683Z",
+  "updatedAt": "2026-07-20T16:21:47.387Z",
   "articles": [
     {
-      "title": "California Pizza Kitchen founder says California has become too difficult for entrepreneurs",
-      "slug": "california-pizza-kitchen-founder-says-california-has-become-too-difficult-for-entrepreneurs",
+      "title": "Van Jones warns far-left socialist agenda is 'regressive' threat to Democratic Party",
+      "slug": "van-jones-warns-far-left-socialist-agenda-is-regressive-threat-to-democratic-party",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Following Messi's lead, Milei bids to separate stadium and state - Live Updates - POLITICO",
+      "slug": "following-messi-s-lead-milei-bids-to-separate-stadium-and-state-live-updates-politico",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "6 big World Cup political moments as Argentina faces Spain",
+      "slug": "6-big-world-cup-political-moments-as-argentina-faces-spain",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Maine Democrat Shenna Bellows drops out of race to replace Graham Platner",
+      "slug": "maine-democrat-shenna-bellows-drops-out-of-race-to-replace-graham-platner",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,56 +82,8 @@
       }
     },
     {
-      "title": "Platner-ally Troy Jackson closing in on Democratic Senate nod in key race to face Collins",
-      "slug": "platner-ally-troy-jackson-closing-in-on-democratic-senate-nod-in-key-race-to-face-collins",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Alabama man charged with killing military veteran, wife had posted about them online for a decade",
-      "slug": "alabama-man-charged-with-killing-military-veteran-wife-had-posted-about-them-online-for-a-decade",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "US retaliates for soldiers’ deaths, striking Iran in fight for Strait of Hormuz",
-      "slug": "us-retaliates-for-soldiers-deaths-striking-iran-in-fight-for-strait-of-hormuz",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "The World Cup conundrum of Europe's far right - Live Updates - POLITICO",
-      "slug": "the-world-cup-conundrum-of-europe-s-far-right-live-updates-politico",
+      "title": "Caitlin Clark 'cheering hard' for Argentina over Spain in World Cup final: 'I want Messi'",
+      "slug": "caitlin-clark-cheering-hard-for-argentina-over-spain-in-world-cup-final-i-want-messi",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
