@@ -1,38 +1,6 @@
 {
-  "updatedAt": "2026-07-22T13:44:07.901Z",
+  "updatedAt": "2026-07-22T16:17:26.018Z",
   "articles": [
-    {
-      "title": "Fox News Power Rankings: Voters say they’re in economic pain, but will Democrats gain?",
-      "slug": "fox-news-power-rankings-voters-say-they-re-in-economic-pain-but-will-democrats-gain",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Live updates: Trump hosts Lebanese president amid Iran conflict escalation",
-      "slug": "live-updates-trump-hosts-lebanese-president-amid-iran-conflict-escalation",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
     {
       "title": "Prosecutor ousted after alleged romance with illegal immigrant sex-crime suspect: 'Pattern of misconduct'",
       "slug": "prosecutor-ousted-after-alleged-romance-with-illegal-immigrant-sex-crime-suspect-pattern-of-misconduct",
@@ -50,8 +18,8 @@
       }
     },
     {
-      "title": "As ICE controversies intensify, White House border czar Tom Homan takes aim at dissent",
-      "slug": "as-ice-controversies-intensify-white-house-border-czar-tom-homan-takes-aim-at-dissent",
+      "title": "Ed Harris says he was ready to leave Dutton Ranch after feeling misled about his role",
+      "slug": "ed-harris-says-he-was-ready-to-leave-dutton-ranch-after-feeling-misled-about-his-role",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,8 +34,8 @@
       }
     },
     {
-      "title": "Aaron Rodgers reconciling with his parents after nearly a dozen years of estrangement",
-      "slug": "aaron-rodgers-reconciling-with-his-parents-after-nearly-a-dozen-years-of-estrangement",
+      "title": "EXCLUSIVE: ESPN to part ways with Cam Newton as part of talent layoffs that also included Ryan Clark",
+      "slug": "exclusive-espn-to-part-ways-with-cam-newton-as-part-of-talent-layoffs-that-also-included-ryan-clark",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +50,40 @@
       }
     },
     {
-      "title": "World Cup chaos avoided by Trump moves he didn’t make, ‘equally as important’ as actions taken: travel exec",
-      "slug": "world-cup-chaos-avoided-by-trump-moves-he-didn-t-make-equally-as-important-as-actions-taken-travel-exec",
+      "title": "GOP leaders charge ahead on uncertain vote with ambitious agenda at stake",
+      "slug": "gop-leaders-charge-ahead-on-uncertain-vote-with-ambitious-agenda-at-stake",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Trump admin pausing over $1B in Medicaid payments to Minnesota, California over fraud, compliance concerns",
+      "slug": "trump-admin-pausing-over-1b-in-medicaid-payments-to-minnesota-california-over-fraud-compliance-concerns",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Fitness influencer Clavicular says he started taking testosterone at 14, calls natural training 'a waste'",
+      "slug": "fitness-influencer-clavicular-says-he-started-taking-testosterone-at-14-calls-natural-training-a-waste",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
