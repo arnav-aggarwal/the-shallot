@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-07-25T21:52:13.011Z",
+  "updatedAt": "2026-07-26T02:29:37.354Z",
   "articles": [
     {
-      "title": "President Donald Trump White House Correspondents' Dinner Speech",
-      "slug": "president-donald-trump-white-house-correspondents-dinner-speech",
+      "title": "House Republicans confront NJ governor over 6,600 noncitizens registered to vote in alleged software failure",
+      "slug": "house-republicans-confront-nj-governor-over-6-600-noncitizens-registered-to-vote-in-alleged-software-failure",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "Why the White House Correspondents’ Dinner still matters in the Trump era",
-      "slug": "why-the-white-house-correspondents-dinner-still-matters-in-the-trump-era",
+      "title": "California trans suspect arrested in mother's killing after neighbor recalls heated argument",
+      "slug": "california-trans-suspect-arrested-in-mother-s-killing-after-neighbor-recalls-heated-argument",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,40 +34,8 @@
       }
     },
     {
-      "title": "White House Correspondents’ Association hosts rescheduled dinner nearly 3 months after shooting incident",
-      "slug": "white-house-correspondents-association-hosts-rescheduled-dinner-nearly-3-months-after-shooting-incident",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Alveda King slams USA Today columnist for invoking Emmett Till in Caitlin Clark piece: 'Pure race-baiting'",
-      "slug": "alveda-king-slams-usa-today-columnist-for-invoking-emmett-till-in-caitlin-clark-piece-pure-race-baiting",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Elon Musk says he ‘got carried away’ with DOGE",
-      "slug": "elon-musk-says-he-got-carried-away-with-doge",
+      "title": "Trump orders signs outside Smithsonian museum amid row over its depiction of American history",
+      "slug": "trump-orders-signs-outside-smithsonian-museum-amid-row-over-its-depiction-of-american-history",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -84,6 +52,38 @@
     {
       "title": "Crude oil prices shoot up after Red Sea joins Strait of Hormuz as Iran war's second choke point",
       "slug": "crude-oil-prices-shoot-up-after-red-sea-joins-strait-of-hormuz-as-iran-war-s-second-choke-point",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Fired '60 Minutes' correspondent accuses CBS News leadership of meddling in reporting",
+      "slug": "fired-60-minutes-correspondent-accuses-cbs-news-leadership-of-meddling-in-reporting",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Trump orders signs be installed outside Smithsonian museum warning of \"inaccurate information\"",
+      "slug": "trump-orders-signs-be-installed-outside-smithsonian-museum-warning-of-inaccurate-information",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
