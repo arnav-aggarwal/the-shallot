@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-01T13:12:12.696Z",
+  "updatedAt": "2026-08-01T15:58:01.358Z",
   "articles": [
     {
-      "title": "Armed robberies and sexual assaults cited in renewed US warning for island getaway",
-      "slug": "armed-robberies-and-sexual-assaults-cited-in-renewed-us-warning-for-island-getaway",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial enters fourth day | Fox News Video",
+      "slug": "watch-live-lindsay-clancy-murder-trial-enters-fourth-day-fox-news-video",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "The Jacksonville Jaguars opened training camp with an amazing message about God on their social media",
-      "slug": "the-jacksonville-jaguars-opened-training-camp-with-an-amazing-message-about-god-on-their-social-media",
+      "title": "Nancy Guthrie case: Sheriff says no one is permanently ruled out as detained man prepares lawsuit",
+      "slug": "nancy-guthrie-case-sheriff-says-no-one-is-permanently-ruled-out-as-detained-man-prepares-lawsuit",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +34,24 @@
       }
     },
     {
-      "title": "Mamdani's 'this is only the beginning' announcement cracking down on food delivery tips sparks outrage",
-      "slug": "mamdani-s-this-is-only-the-beginning-announcement-cracking-down-on-food-delivery-tips-sparks-outrage",
+      "title": "SEE IT: Fauci confronted outside his home over Senate hearing and COVID decisions | Fox News Video",
+      "slug": "see-it-fauci-confronted-outside-his-home-over-senate-hearing-and-covid-decisions-fox-news-video",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Federal government proposes Colorado River water use cuts for California, Arizona and Nevada",
+      "slug": "federal-government-proposes-colorado-river-water-use-cuts-for-california-arizona-and-nevada",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,24 +82,8 @@
       }
     },
     {
-      "title": "Fast-growing Ebola outbreak in DRC surges to second-largest on record",
-      "slug": "fast-growing-ebola-outbreak-in-drc-surges-to-second-largest-on-record",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Whole Hog Politics: Does Trump not know or not care how bad things are for the GOP?",
-      "slug": "whole-hog-politics-does-trump-not-know-or-not-care-how-bad-things-are-for-the-gop",
+      "title": "Months later, Hegseth’s claim of a ‘contained’ war with Iran appears foolish",
+      "slug": "months-later-hegseth-s-claim-of-a-contained-war-with-iran-appears-foolish",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
