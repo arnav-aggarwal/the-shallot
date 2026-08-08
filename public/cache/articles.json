@@ -1,9 +1,25 @@
 {
-  "updatedAt": "2026-08-08T15:24:57.282Z",
+  "updatedAt": "2026-08-08T18:31:58.053Z",
   "articles": [
     {
-      "title": "Trump's pick for top law enforcement official gets crucial last-minute lifeline for confirmation",
-      "slug": "trump-s-pick-for-top-law-enforcement-official-gets-crucial-last-minute-lifeline-for-confirmation",
+      "title": "Organ harvesting began while patients still showed ‘signs of life,’ federal investigation finds",
+      "slug": "organ-harvesting-began-while-patients-still-showed-signs-of-life-federal-investigation-finds",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Blackjack losses, a chilling phone call and a diverted flight cap a chaotic Las Vegas vacation",
+      "slug": "blackjack-losses-a-chilling-phone-call-and-a-diverted-flight-cap-a-chaotic-las-vegas-vacation",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +50,8 @@
       }
     },
     {
-      "title": "Appeals court blocks Trump’s White House ballroom construction",
-      "slug": "appeals-court-blocks-trump-s-white-house-ballroom-construction",
+      "title": "GOP senator breaks with Trump over 'woke' Smithsonian history battle",
+      "slug": "gop-senator-breaks-with-trump-over-woke-smithsonian-history-battle",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +66,8 @@
       }
     },
     {
-      "title": "Todd Blanche wins Cassidy support to become Trump’s attorney general",
-      "slug": "todd-blanche-wins-cassidy-support-to-become-trump-s-attorney-general",
+      "title": "Rogers opens door to Democratic voters after El-Sayed’s primary victory: ‘There is still hope’",
+      "slug": "rogers-opens-door-to-democratic-voters-after-el-sayed-s-primary-victory-there-is-still-hope",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,24 +82,8 @@
       }
     },
     {
-      "title": "Appeals court blocks Trump’s White House ballroom construction",
-      "slug": "appeals-court-blocks-trump-s-white-house-ballroom-construction",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Cassidy will support Blanche, sealing confirmation to head Justice Department",
-      "slug": "cassidy-will-support-blanche-sealing-confirmation-to-head-justice-department",
+      "title": "ICE to soon give officers body cameras, but will release video only when in the agency’s ‘best interests’",
+      "slug": "ice-to-soon-give-officers-body-cameras-but-will-release-video-only-when-in-the-agency-s-best-interests",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
