@@ -1,54 +1,6 @@
 {
-  "updatedAt": "2026-08-11T18:57:13.139Z",
+  "updatedAt": "2026-08-11T21:41:29.687Z",
   "articles": [
-    {
-      "title": "Trump amplifies message labeling GOP’s Murkowski a ‘traitor’ following Blanche vote",
-      "slug": "trump-amplifies-message-labeling-gop-s-murkowski-a-traitor-following-blanche-vote",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "GOP, Democratic mayors challenge Trump’s claims of economic ‘golden age’",
-      "slug": "gop-democratic-mayors-challenge-trump-s-claims-of-economic-golden-age",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Watch live: Trial resumes for Massachusetts nurse accused of murdering her three children | CNN",
-      "slug": "watch-live-trial-resumes-for-massachusetts-nurse-accused-of-murdering-her-three-children-cnn",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
     {
       "title": "Sports media hits all-time low in coverage of DiJonai Carrington and Sophie Cunningham",
       "slug": "sports-media-hits-all-time-low-in-coverage-of-dijonai-carrington-and-sophie-cunningham",
@@ -66,8 +18,8 @@
       }
     },
     {
-      "title": "Trump wins permission to file amended complaint in $10B defamation lawsuit against BBC",
-      "slug": "trump-wins-permission-to-file-amended-complaint-in-10b-defamation-lawsuit-against-bbc",
+      "title": "Fauci discussed COVID mRNA vaccine concerns for pregnant women in text chain released by Senate committee",
+      "slug": "fauci-discussed-covid-mrna-vaccine-concerns-for-pregnant-women-in-text-chain-released-by-senate-committee",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +34,56 @@
       }
     },
     {
-      "title": "El-Sayed admits free healthcare means paying 'a little bit more in taxes' regardless of income",
-      "slug": "el-sayed-admits-free-healthcare-means-paying-a-little-bit-more-in-taxes-regardless-of-income",
+      "title": "Brad Pitt admits he began drinking again after years of sobriety",
+      "slug": "brad-pitt-admits-he-began-drinking-again-after-years-of-sobriety",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Former Clinton ally pans media downplaying 'civil war' erupting between moderate Dems, far-left socialists",
+      "slug": "former-clinton-ally-pans-media-downplaying-civil-war-erupting-between-moderate-dems-far-left-socialists",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Record-setting El Capitan rock climber dies at age 30 in Sierra Nevada accident",
+      "slug": "record-setting-el-capitan-rock-climber-dies-at-age-30-in-sierra-nevada-accident",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Over 100 dead after powerful earthquake hits Colombia | CNN",
+      "slug": "over-100-dead-after-powerful-earthquake-hits-colombia-cnn",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
