@@ -1,9 +1,41 @@
 {
-  "updatedAt": "2026-08-15T12:30:18.980Z",
+  "updatedAt": "2026-08-15T15:16:31.082Z",
   "articles": [
     {
-      "title": "Whole Hog Politics: Hyperventilation over Hong",
-      "slug": "whole-hog-politics-hyperventilation-over-hong",
+      "title": "With increasing enthusiasm, Democrats are embracing need for Supreme Court reforms",
+      "slug": "with-increasing-enthusiasm-democrats-are-embracing-need-for-supreme-court-reforms",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Rising golf star dead at 18 after brain hemorrhage while playing tournament in Thailand",
+      "slug": "rising-golf-star-dead-at-18-after-brain-hemorrhage-while-playing-tournament-in-thailand",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Second train derails in England in less than 24 hours",
+      "slug": "second-train-derails-in-england-in-less-than-24-hours",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +66,8 @@
       }
     },
     {
-      "title": "Luigi Mangione expected to plead guilty in federal case",
-      "slug": "luigi-mangione-expected-to-plead-guilty-in-federal-case",
+      "title": "WATCH LIVE: Alex Murdaugh returns to court for pretrial hearing | Fox News Video",
+      "slug": "watch-live-alex-murdaugh-returns-to-court-for-pretrial-hearing-fox-news-video",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,40 +82,8 @@
       }
     },
     {
-      "title": "House incumbents are having a historically bad year",
-      "slug": "house-incumbents-are-having-a-historically-bad-year",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "‘I go after what I want’: AOC posts day 6 update on freezing her eggs | CNN Politics",
-      "slug": "i-go-after-what-i-want-aoc-posts-day-6-update-on-freezing-her-eggs-cnn-politics",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "What ‘super movers’ can teach us about healthier brains",
-      "slug": "what-super-movers-can-teach-us-about-healthier-brains",
+      "title": "'Extremist' and 'barbaric': Massachusetts Democrats break ranks over new abortion law",
+      "slug": "extremist-and-barbaric-massachusetts-democrats-break-ranks-over-new-abortion-law",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
