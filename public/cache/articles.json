@@ -1,6 +1,22 @@
 {
-  "updatedAt": "2026-08-24T15:35:13.560Z",
+  "updatedAt": "2026-08-24T18:34:33.017Z",
   "articles": [
+    {
+      "title": "American Federation of Teachers launches boycott against Target, claims retailer 'remained silent' on ICE",
+      "slug": "american-federation-of-teachers-launches-boycott-against-target-claims-retailer-remained-silent-on-ice",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
     {
       "title": "Karoline Leavitt reveals next role after leaving White House press secretary post",
       "slug": "karoline-leavitt-reveals-next-role-after-leaving-white-house-press-secretary-post",
@@ -18,8 +34,8 @@
       }
     },
     {
-      "title": "Pence says US must prepare for ‘inevitable’ action against Iran",
-      "slug": "pence-says-us-must-prepare-for-inevitable-action-against-iran",
+      "title": "How struggling farmers could turn Iowa blue and hand Democrats power",
+      "slug": "how-struggling-farmers-could-turn-iowa-blue-and-hand-democrats-power",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +50,8 @@
       }
     },
     {
-      "title": "‘Benefits of being a state’: Trump escalates tariff war with Canada",
-      "slug": "benefits-of-being-a-state-trump-escalates-tariff-war-with-canada",
+      "title": "How the Boston Red Sox finally broke the ‘Curse of the Bambino’ to end an 86-year championship drought",
+      "slug": "how-the-boston-red-sox-finally-broke-the-curse-of-the-bambino-to-end-an-86-year-championship-drought",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +66,8 @@
       }
     },
     {
-      "title": "Tourists shocked after innocent vacation activity lands them in hot water with locals",
-      "slug": "tourists-shocked-after-innocent-vacation-activity-lands-them-in-hot-water-with-locals",
+      "title": "Chiefs' Harrison Butker nails incredible 69-yard field goal vs Bucs, shares disappointment with performance",
+      "slug": "chiefs-harrison-butker-nails-incredible-69-yard-field-goal-vs-bucs-shares-disappointment-with-performance",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,24 +82,8 @@
       }
     },
     {
-      "title": "Chinese humanoid robot breaks Usain Bolt's 100m dash record at 9.39 seconds",
-      "slug": "chinese-humanoid-robot-breaks-usain-bolt-s-100m-dash-record-at-9-39-seconds",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Tom Hanks put 'Band of Brothers' stars in their place during boot camp 'mutiny', Neal McDonough reveals",
-      "slug": "tom-hanks-put-band-of-brothers-stars-in-their-place-during-boot-camp-mutiny-neal-mcdonough-reveals",
+      "title": "Trump takes honorary lap around IndyCar track in Washington ahead of Freedom 250 Grand Prix",
+      "slug": "trump-takes-honorary-lap-around-indycar-track-in-washington-ahead-of-freedom-250-grand-prix",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
