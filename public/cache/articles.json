@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T16:09:39.553Z",
+  "updatedAt": "2026-08-29T20:21:52.335Z",
   "articles": [
     {
-      "title": "Longtime Republican Al Michaels took a jab at Trump and NFL fans went spiraling out of control",
-      "slug": "longtime-republican-al-michaels-took-a-jab-at-trump-and-nfl-fans-went-spiraling-out-of-control",
+      "title": "Former Disney Channel star alleges she was sexually abused at 14 after being told to ‘bond’ with employee",
+      "slug": "former-disney-channel-star-alleges-she-was-sexually-abused-at-14-after-being-told-to-bond-with-employee",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,24 @@
       }
     },
     {
-      "title": "Man accused of posing as 49ers player in $1.3M romance scam appeared in video obtained by OutKick",
-      "slug": "man-accused-of-posing-as-49ers-player-in-1-3m-romance-scam-appeared-in-video-obtained-by-outkick",
+      "title": "Right-wing provocateur Milo Yiannopoulos detained by ICE, records show",
+      "slug": "right-wing-provocateur-milo-yiannopoulos-detained-by-ice-records-show",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Jerry Sandusky granted new evidentiary hearing after accuser recants testimony",
+      "slug": "jerry-sandusky-granted-new-evidentiary-hearing-after-accuser-recants-testimony",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +66,8 @@
       }
     },
     {
-      "title": "Trump admin blocks more than $1.6B in potentially improper Medicare lab payments, agency says",
-      "slug": "trump-admin-blocks-more-than-1-6b-in-potentially-improper-medicare-lab-payments-agency-says",
+      "title": "Milo Yiannopoulos arrested by ICE, held at major deportation hub in Louisiana",
+      "slug": "milo-yiannopoulos-arrested-by-ice-held-at-major-deportation-hub-in-louisiana",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,24 +82,8 @@
       }
     },
     {
-      "title": "Biden-honored Iraqi official lands on US terror watchlist as Trump State Dept revokes visa",
-      "slug": "biden-honored-iraqi-official-lands-on-us-terror-watchlist-as-trump-state-dept-revokes-visa",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Washington chemical tank was called unfit for service before deadly failure, investigators find",
-      "slug": "washington-chemical-tank-was-called-unfit-for-service-before-deadly-failure-investigators-find",
+      "title": "Trump DOJ widens legal war on states giving college benefits to illegal immigrants",
+      "slug": "trump-doj-widens-legal-war-on-states-giving-college-benefits-to-illegal-immigrants",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
