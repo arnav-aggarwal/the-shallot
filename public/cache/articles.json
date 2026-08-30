@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-08-29T22:58:30.023Z",
+  "updatedAt": "2026-08-30T03:29:02.500Z",
   "articles": [
     {
-      "title": "Six Flags coaster linked to serious brain injuries, death | CNN",
-      "slug": "six-flags-coaster-linked-to-serious-brain-injuries-death-cnn",
+      "title": "Demi Lovato celebrates 34th birthday in colorful string bikini during Bahamas getaway",
+      "slug": "demi-lovato-celebrates-34th-birthday-in-colorful-string-bikini-during-bahamas-getaway",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "LGBTQ group reveals which Dem nominee is sponsoring Halloween event featuring drag shows",
-      "slug": "lgbtq-group-reveals-which-dem-nominee-is-sponsoring-halloween-event-featuring-drag-shows",
+      "title": "John Harbaugh Reveals If Odell Beckham Jr. Has Done Enough to Make NFL Roster After Giants Preseason",
+      "slug": "john-harbaugh-reveals-if-odell-beckham-jr-has-done-enough-to-make-nfl-roster-after-giants-preseason",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +34,24 @@
       }
     },
     {
-      "title": "Trump considers giving away part of Yosemite to private company",
-      "slug": "trump-considers-giving-away-part-of-yosemite-to-private-company",
+      "title": "Michelle Obama shrugs off missing active motherhood after daughters leave, says, 'I'm good'",
+      "slug": "michelle-obama-shrugs-off-missing-active-motherhood-after-daughters-leave-says-i-m-good",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Hegseth blocks promotions of 4 Army officers with ties to sacked generals",
+      "slug": "hegseth-blocks-promotions-of-4-army-officers-with-ties-to-sacked-generals",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,24 +82,8 @@
       }
     },
     {
-      "title": "Transgender Canadian golfer sends a blunt message to critics as victories over women pile up",
-      "slug": "transgender-canadian-golfer-sends-a-blunt-message-to-critics-as-victories-over-women-pile-up",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Roger Federer tells CNN Sports he’s prepared for happy tears at Hall of Fame induction",
-      "slug": "roger-federer-tells-cnn-sports-he-s-prepared-for-happy-tears-at-hall-of-fame-induction",
+      "title": "Six Flags coaster linked to serious brain injuries, death | CNN",
+      "slug": "six-flags-coaster-linked-to-serious-brain-injuries-death-cnn",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
