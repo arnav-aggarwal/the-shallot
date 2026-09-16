@@ -1,25 +1,9 @@
 {
-  "updatedAt": "2026-09-16T16:04:18.532Z",
+  "updatedAt": "2026-09-16T20:50:14.683Z",
   "articles": [
     {
-      "title": "Nick Reiner won't face death penalty in Rob, Michele Reiner murder case",
-      "slug": "nick-reiner-won-t-face-death-penalty-in-rob-michele-reiner-murder-case",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Newt Gingrich: Why the 2026 Midterms Will Shock America | Hang Out with Sean Hannity | Fox News Video",
-      "slug": "newt-gingrich-why-the-2026-midterms-will-shock-america-hang-out-with-sean-hannity-fox-news-video",
+      "title": "AG Blanche unveils federal charges against 160 defendants in pandemic relief sweep",
+      "slug": "ag-blanche-unveils-federal-charges-against-160-defendants-in-pandemic-relief-sweep",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +34,8 @@
       }
     },
     {
-      "title": "Attempted Trump assassin Thomas Crooks used 'Bob Dole' alias before anonymous donor paid for cremation: docs",
-      "slug": "attempted-trump-assassin-thomas-crooks-used-bob-dole-alias-before-anonymous-donor-paid-for-cremation-docs",
+      "title": "Trump-backed crypto bill fails to launch as Dems, Republicans unite to block it",
+      "slug": "trump-backed-crypto-bill-fails-to-launch-as-dems-republicans-unite-to-block-it",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,8 +50,8 @@
       }
     },
     {
-      "title": "Live: First Lady Melania Trump speaks to students and staff in North Carolina to promote education technology | CNN",
-      "slug": "live-first-lady-melania-trump-speaks-to-students-and-staff-in-north-carolina-to-promote-education-technology-cnn",
+      "title": "Senate Democrats press Patel on elections, media: 5 takeaways",
+      "slug": "senate-democrats-press-patel-on-elections-media-5-takeaways",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +66,24 @@
       }
     },
     {
-      "title": "Smithsonian move reignites 'woke,' 'Marxist' criticism as Latino museum avoids congressional approval",
-      "slug": "smithsonian-move-reignites-woke-marxist-criticism-as-latino-museum-avoids-congressional-approval",
+      "title": "Log in to your CNN account | CNN",
+      "slug": "log-in-to-your-cnn-account-cnn",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "All Over The Map with John King | CNN",
+      "slug": "all-over-the-map-with-john-king-cnn",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
