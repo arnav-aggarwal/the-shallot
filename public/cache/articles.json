@@ -1,6 +1,70 @@
 {
-  "updatedAt": "2026-09-18T15:46:23.736Z",
+  "updatedAt": "2026-09-18T20:21:40.817Z",
   "articles": [
+    {
+      "title": "Minneapolis police release video of active shooter exchange | CNN",
+      "slug": "minneapolis-police-release-video-of-active-shooter-exchange-cnn",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Starbucks agrees to DEI overhaul after blockbuster Florida legal showdown",
+      "slug": "starbucks-agrees-to-dei-overhaul-after-blockbuster-florida-legal-showdown",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Talarico hit with ‘blatant corruption’ allegation over hefty salary from consulting firm, campaign pushes back",
+      "slug": "talarico-hit-with-blatant-corruption-allegation-over-hefty-salary-from-consulting-firm-campaign-pushes-back",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "America’s hunters get an exclusive seat at Trump’s White House table as he takes aim at Biden-era rules",
+      "slug": "america-s-hunters-get-an-exclusive-seat-at-trump-s-white-house-table-as-he-takes-aim-at-biden-era-rules",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
     {
       "title": "Trump claims he has spoken to Iran 'directly,' says war is 'hopefully' near an end",
       "slug": "trump-claims-he-has-spoken-to-iran-directly-says-war-is-hopefully-near-an-end",
@@ -18,72 +82,8 @@
       }
     },
     {
-      "title": "GOP congressman presses WNBA to define ‘women’ after Enes Kanter Freedom, Royce White ruled ineligible",
-      "slug": "gop-congressman-presses-wnba-to-define-women-after-enes-kanter-freedom-royce-white-ruled-ineligible",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Pope Leo XIV receives 'symbolic’ sphere in charity's push for AI to 'protect human dignity'",
-      "slug": "pope-leo-xiv-receives-symbolic-sphere-in-charity-s-push-for-ai-to-protect-human-dignity",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "San Diego bystanders chase down suspected Tesla thief after woman struck on boardwalk",
-      "slug": "san-diego-bystanders-chase-down-suspected-tesla-thief-after-woman-struck-on-boardwalk",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Faint signal leads treasure hunters to massive discovery at legendary 400-year-old wreck",
-      "slug": "faint-signal-leads-treasure-hunters-to-massive-discovery-at-legendary-400-year-old-wreck",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Lane Kiffin's daughter disgusted by 'vulgar' bed sheet banners accusing her of having sex with a player",
-      "slug": "lane-kiffin-s-daughter-disgusted-by-vulgar-bed-sheet-banners-accusing-her-of-having-sex-with-a-player",
+      "title": "Covid-19 vaccines delayed for about half of US children as access through federal program stalls",
+      "slug": "covid-19-vaccines-delayed-for-about-half-of-us-children-as-access-through-federal-program-stalls",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
