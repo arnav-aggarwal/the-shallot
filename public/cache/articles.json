@@ -1,38 +1,6 @@
 {
-  "updatedAt": "2026-09-17T23:21:11.499Z",
+  "updatedAt": "2026-09-18T03:04:13.031Z",
   "articles": [
-    {
-      "title": "Watch live: President Trump holds midterm rally in Gastonia, NC | CNN",
-      "slug": "watch-live-president-trump-holds-midterm-rally-in-gastonia-nc-cnn",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "House approves bill aimed at putting data center electricity costs on tech companies",
-      "slug": "house-approves-bill-aimed-at-putting-data-center-electricity-costs-on-tech-companies",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
     {
       "title": "Jelly Roll says he could walk away from country music if God tells him to: ‘Y’all will never see me again’",
       "slug": "jelly-roll-says-he-could-walk-away-from-country-music-if-god-tells-him-to-y-all-will-never-see-me-again",
@@ -50,8 +18,8 @@
       }
     },
     {
-      "title": "Fans falsely claim to have spotted moving trucks outside FSU head coach Mike Norvell's house",
-      "slug": "fans-falsely-claim-to-have-spotted-moving-trucks-outside-fsu-head-coach-mike-norvell-s-house",
+      "title": "Plane passengers scream in harrowing mid-flight video as violent shaking sends cabin ceiling panels flying",
+      "slug": "plane-passengers-scream-in-harrowing-mid-flight-video-as-violent-shaking-sends-cabin-ceiling-panels-flying",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,8 +34,8 @@
       }
     },
     {
-      "title": "7 House Republicans vote with Democrats on Iran war powers resolution",
-      "slug": "7-house-republicans-vote-with-democrats-on-iran-war-powers-resolution",
+      "title": "Democrat candidate seen sobbing, praying in patrol car after DUI arrest: Video",
+      "slug": "democrat-candidate-seen-sobbing-praying-in-patrol-car-after-dui-arrest-video",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +50,40 @@
       }
     },
     {
-      "title": "House passes Russia sanctions bill, sending it to Trump’s desk",
-      "slug": "house-passes-russia-sanctions-bill-sending-it-to-trump-s-desk",
+      "title": "NCAA admits replay errors but reiterates it cannot change result of Western Michigan-Michigan game",
+      "slug": "ncaa-admits-replay-errors-but-reiterates-it-cannot-change-result-of-western-michigan-michigan-game",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "OpenAI says it found more instances of AI models acting deceptively",
+      "slug": "openai-says-it-found-more-instances-of-ai-models-acting-deceptively",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Amanda Seyfried and Thomas Sadoski say separation is 'right move' for family after nearly 10 years of marriage",
+      "slug": "amanda-seyfried-and-thomas-sadoski-say-separation-is-right-move-for-family-after-nearly-10-years-of-marriage",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
