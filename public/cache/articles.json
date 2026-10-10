@@ -1,9 +1,41 @@
 {
-  "updatedAt": "2026-10-09T22:17:02.500Z",
+  "updatedAt": "2026-10-10T04:12:48.311Z",
   "articles": [
     {
-      "title": "Trump calls Democrat he pardoned a 'loser' for not switching parties",
-      "slug": "trump-calls-democrat-he-pardoned-a-loser-for-not-switching-parties",
+      "title": "Byron Donalds says he is not a ‘yes man’ to Trump",
+      "slug": "byron-donalds-says-he-is-not-a-yes-man-to-trump",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Guinness brewery that welcomed 2 million visitors closing its doors for good",
+      "slug": "guinness-brewery-that-welcomed-2-million-visitors-closing-its-doors-for-good",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Rumbling volcano forces immediate trail closures at popular vacation hot spot",
+      "slug": "rumbling-volcano-forces-immediate-trail-closures-at-popular-vacation-hot-spot",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +66,8 @@
       }
     },
     {
-      "title": "Mother of dead Russian anti-plague institute worker: 'I know the truth'",
-      "slug": "mother-of-dead-russian-anti-plague-institute-worker-i-know-the-truth",
+      "title": "Putin offers to help end Iran war as Trump touts ‘productive discussions’ with Tehran",
+      "slug": "putin-offers-to-help-end-iran-war-as-trump-touts-productive-discussions-with-tehran",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,40 +82,8 @@
       }
     },
     {
-      "title": "Two men arrested after breaking into UK airbase used by US, counterterrorism police say",
-      "slug": "two-men-arrested-after-breaking-into-uk-airbase-used-by-us-counterterrorism-police-say",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Person shot during encounter with federal agents in New York City, NYPD says",
-      "slug": "person-shot-during-encounter-with-federal-agents-in-new-york-city-nypd-says",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Ryan Hanafin arrested in Vermont after mom Andria found dead of gunshot wound in Massachusetts home",
-      "slug": "ryan-hanafin-arrested-in-vermont-after-mom-andria-found-dead-of-gunshot-wound-in-massachusetts-home",
+      "title": "Second Maine Senate debate takes testy turn: 3 takeaways",
+      "slug": "second-maine-senate-debate-takes-testy-turn-3-takeaways",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
