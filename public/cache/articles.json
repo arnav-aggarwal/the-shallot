@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-10-11T17:17:10.635Z",
+  "updatedAt": "2026-10-11T21:26:28.761Z",
   "articles": [
+    {
+      "title": "Eagles release Pro Bowl quarterback Andy Dalton after just one disastrous pass in loss",
+      "slug": "eagles-release-pro-bowl-quarterback-andy-dalton-after-just-one-disastrous-pass-in-loss",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Trump says Ukraine should get a new leader | CNN Politics",
+      "slug": "trump-says-ukraine-should-get-a-new-leader-cnn-politics",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Sexually transmitted diarrhea is spreading and becoming harder to treat, doctor warns | Fox News Video",
+      "slug": "sexually-transmitted-diarrhea-is-spreading-and-becoming-harder-to-treat-doctor-warns-fox-news-video",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
     {
       "title": "Nine people killed in Pennsylvania shooting; suspected gunman found dead: report",
       "slug": "nine-people-killed-in-pennsylvania-shooting-suspected-gunman-found-dead-report",
@@ -18,8 +66,8 @@
       }
     },
     {
-      "title": "Christa Pike, who survived an execution attempt, is discharged from hospital, attorney says",
-      "slug": "christa-pike-who-survived-an-execution-attempt-is-discharged-from-hospital-attorney-says",
+      "title": "Philadelphia police officer killed, partner shot 12 times in ambush; suspect found hiding in tree",
+      "slug": "philadelphia-police-officer-killed-partner-shot-12-times-in-ambush-suspect-found-hiding-in-tree",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,56 +82,8 @@
       }
     },
     {
-      "title": "What it means when the right calls Indian Americans a ‘question’",
-      "slug": "what-it-means-when-the-right-calls-indian-americans-a-question",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "5 men died after being injured along a Michigan trail. Their deaths have raised questions about a possible serial killer",
-      "slug": "5-men-died-after-being-injured-along-a-michigan-trail-their-deaths-have-raised-questions-about-a-possible-serial-killer",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Inside Silicon Valley's bet on a new path to landing a job in the AI era",
-      "slug": "inside-silicon-valley-s-bet-on-a-new-path-to-landing-a-job-in-the-ai-era",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "The Memo: Guilfoyle furor rises as Trump stops short of expressing support",
-      "slug": "the-memo-guilfoyle-furor-rises-as-trump-stops-short-of-expressing-support",
+      "title": "Live updates: Deadly post-tropical Isaias charges inland, unleashing vicious impacts on the South",
+      "slug": "live-updates-deadly-post-tropical-isaias-charges-inland-unleashing-vicious-impacts-on-the-south",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
