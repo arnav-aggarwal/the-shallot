@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-11T21:26:28.761Z",
+  "updatedAt": "2026-10-12T04:12:14.342Z",
   "articles": [
+    {
+      "title": "Trump says he will 'make a decision' on Pentagon's plans to livestream Nidal Hasan's firing squad execution",
+      "slug": "trump-says-he-will-make-a-decision-on-pentagon-s-plans-to-livestream-nidal-hasan-s-firing-squad-execution",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "George Clooney says family is still processing Presley Gerber's tragic death",
+      "slug": "george-clooney-says-family-is-still-processing-presley-gerber-s-tragic-death",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
     {
       "title": "Eagles release Pro Bowl quarterback Andy Dalton after just one disastrous pass in loss",
       "slug": "eagles-release-pro-bowl-quarterback-andy-dalton-after-just-one-disastrous-pass-in-loss",
@@ -18,8 +50,8 @@
       }
     },
     {
-      "title": "Trump says Ukraine should get a new leader | CNN Politics",
-      "slug": "trump-says-ukraine-should-get-a-new-leader-cnn-politics",
+      "title": "Pennsylvania shooting kills nine, including two children | CNN",
+      "slug": "pennsylvania-shooting-kills-nine-including-two-children-cnn",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +66,8 @@
       }
     },
     {
-      "title": "Sexually transmitted diarrhea is spreading and becoming harder to treat, doctor warns | Fox News Video",
-      "slug": "sexually-transmitted-diarrhea-is-spreading-and-becoming-harder-to-treat-doctor-warns-fox-news-video",
+      "title": "Toxicology reports reveal same controlled substances in 2 Ole Miss students found dead: court docs",
+      "slug": "toxicology-reports-reveal-same-controlled-substances-in-2-ole-miss-students-found-dead-court-docs",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,40 +82,8 @@
       }
     },
     {
-      "title": "Nine people killed in Pennsylvania shooting; suspected gunman found dead: report",
-      "slug": "nine-people-killed-in-pennsylvania-shooting-suspected-gunman-found-dead-report",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Philadelphia police officer killed, partner shot 12 times in ambush; suspect found hiding in tree",
-      "slug": "philadelphia-police-officer-killed-partner-shot-12-times-in-ambush-suspect-found-hiding-in-tree",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Live updates: Deadly post-tropical Isaias charges inland, unleashing vicious impacts on the South",
-      "slug": "live-updates-deadly-post-tropical-isaias-charges-inland-unleashing-vicious-impacts-on-the-south",
+      "title": "'Happy Days' star Anson Williams says he had to create a second career because sitcom pay wasn't enough",
+      "slug": "happy-days-star-anson-williams-says-he-had-to-create-a-second-career-because-sitcom-pay-wasn-t-enough",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
