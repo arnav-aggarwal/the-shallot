@@ -1,54 +1,6 @@
 {
-  "updatedAt": "2026-10-13T18:49:51.259Z",
+  "updatedAt": "2026-10-14T00:06:38.932Z",
   "articles": [
-    {
-      "title": "Federal agents raid Ilhan Omar’s DC home amid immigration fraud investigation",
-      "slug": "federal-agents-raid-ilhan-omar-s-dc-home-amid-immigration-fraud-investigation",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "US issues warning over Saudi airports as Trump weighs new strikes on Iran",
-      "slug": "us-issues-warning-over-saudi-airports-as-trump-weighs-new-strikes-on-iran",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "America’s most rat-infested cities ranked as Midwest surprise cracks top 10",
-      "slug": "america-s-most-rat-infested-cities-ranked-as-midwest-surprise-cracks-top-10",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
     {
       "title": "Selma Blair arrested after in-flight incident",
       "slug": "selma-blair-arrested-after-in-flight-incident",
@@ -66,8 +18,8 @@
       }
     },
     {
-      "title": "Microsoft president urges global AI regulation, warns of safety gaps",
-      "slug": "microsoft-president-urges-global-ai-regulation-warns-of-safety-gaps",
+      "title": "Bizarre X-ray scan leads TSA officers to flight passenger's illegal stash",
+      "slug": "bizarre-x-ray-scan-leads-tsa-officers-to-flight-passenger-s-illegal-stash",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +34,56 @@
       }
     },
     {
-      "title": "Federal judge admonishes Trump administration over East Potomac Park tree removal",
-      "slug": "federal-judge-admonishes-trump-administration-over-east-potomac-park-tree-removal",
+      "title": "ATF suspends federal registration and approval rules for certain firearms",
+      "slug": "atf-suspends-federal-registration-and-approval-rules-for-certain-firearms",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Federal agents raid Ilhan Omar’s DC home amid immigration fraud investigation",
+      "slug": "federal-agents-raid-ilhan-omar-s-dc-home-amid-immigration-fraud-investigation",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Retired police sergeant shoots deputy chief wife and their daughter in wealthy, coastal enclave home",
+      "slug": "retired-police-sergeant-shoots-deputy-chief-wife-and-their-daughter-in-wealthy-coastal-enclave-home",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "The Memo: Trump critics allege abuse of power as Ilhan Omar’s home is raided",
+      "slug": "the-memo-trump-critics-allege-abuse-of-power-as-ilhan-omar-s-home-is-raided",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
