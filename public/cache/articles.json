@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-20T21:12:18.728Z",
+  "updatedAt": "2026-10-21T03:12:27.260Z",
   "articles": [
     {
-      "title": "Trump renews push to rename New Mexico ‘New America,’ touts higher home values and incomes",
-      "slug": "trump-renews-push-to-rename-new-mexico-new-america-touts-higher-home-values-and-incomes",
+      "title": "Lung cancer can grow silently for years, here’s who qualifies for screening",
+      "slug": "lung-cancer-can-grow-silently-for-years-here-s-who-qualifies-for-screening",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,8 @@
       }
     },
     {
-      "title": "Simpson 'Dream Team' member says case is not closed after court documents suggest accomplice | Fox News Video",
-      "slug": "simpson-dream-team-member-says-case-is-not-closed-after-court-documents-suggest-accomplice-fox-news-video",
+      "title": "France's massive intel failure sparks resignation offers amid days of rioting",
+      "slug": "france-s-massive-intel-failure-sparks-resignation-offers-amid-days-of-rioting",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +34,8 @@
       }
     },
     {
-      "title": "Hungary and Poland defend tough migration policies as France reels from violent unrest",
-      "slug": "hungary-and-poland-defend-tough-migration-policies-as-france-reels-from-violent-unrest",
+      "title": "Rogers warns Michigan voters against El-Sayed’s ‘extreme’ agenda ahead of election",
+      "slug": "rogers-warns-michigan-voters-against-el-sayed-s-extreme-agenda-ahead-of-election",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +50,24 @@
       }
     },
     {
-      "title": "Trump says he would be open to trilateral meeting with Putin, Xi",
-      "slug": "trump-says-he-would-be-open-to-trilateral-meeting-with-putin-xi",
+      "title": "Trump announces $8B relief program for farmers",
+      "slug": "trump-announces-8b-relief-program-for-farmers",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "GOP’s Don Bacon rips Trump over ‘disgraceful’ behavior on Ukraine, Russia",
+      "slug": "gop-s-don-bacon-rips-trump-over-disgraceful-behavior-on-ukraine-russia",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -68,22 +84,6 @@
     {
       "title": "Selena Gomez warns fans after vaping habit leaves her with permanent consequence",
       "slug": "selena-gomez-warns-fans-after-vaping-habit-leaves-her-with-permanent-consequence",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "How a foreign government helped accused Saudi spy's family flee US after OpenAI bug scandal",
-      "slug": "how-a-foreign-government-helped-accused-saudi-spy-s-family-flee-us-after-openai-bug-scandal",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
