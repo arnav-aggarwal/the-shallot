@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-21T21:12:56.377Z",
+  "updatedAt": "2026-10-22T03:15:52.789Z",
   "articles": [
     {
-      "title": "Watch live: Memphis leaders set to vote on plan to pause data center developments at city council meeting | CNN",
-      "slug": "watch-live-memphis-leaders-set-to-vote-on-plan-to-pause-data-center-developments-at-city-council-meeting-cnn",
+      "title": "Addiction specialist sounds alarm amid spike in deadly new street drug | Fox News Video",
+      "slug": "addiction-specialist-sounds-alarm-amid-spike-in-deadly-new-street-drug-fox-news-video",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -18,8 +18,56 @@
       }
     },
     {
-      "title": "NFL VP says league is 'vigilant' about security for France matchup, remains confident in plans",
-      "slug": "nfl-vp-says-league-is-vigilant-about-security-for-france-matchup-remains-confident-in-plans",
+      "title": "Supreme Court’s conservatives have let down democracy, Justice Kagan says",
+      "slug": "supreme-court-s-conservatives-have-let-down-democracy-justice-kagan-says",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Ramaswamy takes responsibility for attack ad featuring Acton’s estranged mother",
+      "slug": "ramaswamy-takes-responsibility-for-attack-ad-featuring-acton-s-estranged-mother",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Americans who moved to Europe after Trump win now say they regret leaving",
+      "slug": "americans-who-moved-to-europe-after-trump-win-now-say-they-regret-leaving",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Vacation spot slapped with US travel warning over crime, sexual assaults and kidnappings",
+      "slug": "vacation-spot-slapped-with-us-travel-warning-over-crime-sexual-assaults-and-kidnappings",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -36,54 +84,6 @@
     {
       "title": "Ilhan Omar's daughters show up at scene of DC raid as rumors swirl about embattled rep's whereabouts",
       "slug": "ilhan-omar-s-daughters-show-up-at-scene-of-dc-raid-as-rumors-swirl-about-embattled-rep-s-whereabouts",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Former Disney star Erik von Detten sued for elder abuse after couple poured $2.1M retirement savings into gold",
-      "slug": "former-disney-star-erik-von-detten-sued-for-elder-abuse-after-couple-poured-2-1m-retirement-savings-into-gold",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Tourist killed in freak accident at landmark designed by one of America's most famous architects",
-      "slug": "tourist-killed-in-freak-accident-at-landmark-designed-by-one-of-america-s-most-famous-architects",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Blakeman’s uptown fracking fiesta",
-      "slug": "blakeman-s-uptown-fracking-fiesta",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
