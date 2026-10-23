@@ -1,22 +1,6 @@
 {
-  "updatedAt": "2026-10-23T20:56:50.086Z",
+  "updatedAt": "2026-10-23T23:45:28.782Z",
   "articles": [
-    {
-      "title": "A final farewell to NYC’s horse carriage industry",
-      "slug": "a-final-farewell-to-nyc-s-horse-carriage-industry",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
     {
       "title": "Iran issues 'serious warning' to US military forces in Middle East",
       "slug": "iran-issues-serious-warning-to-us-military-forces-in-middle-east",
@@ -34,8 +18,8 @@
       }
     },
     {
-      "title": "Dementia risk may be linked to seemingly harmless daily habit, new research suggests",
-      "slug": "dementia-risk-may-be-linked-to-seemingly-harmless-daily-habit-new-research-suggests",
+      "title": "NYC votes to end nearly 170-year-old horse carriage tradition as Trump blasts ban, drivers threaten lawsuit",
+      "slug": "nyc-votes-to-end-nearly-170-year-old-horse-carriage-tradition-as-trump-blasts-ban-drivers-threaten-lawsuit",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,8 +34,8 @@
       }
     },
     {
-      "title": "Australia pastor case 'canary in the coal mine' for American Christian freedoms: TPUSA leader",
-      "slug": "australia-pastor-case-canary-in-the-coal-mine-for-american-christian-freedoms-tpusa-leader",
+      "title": "The spooky secret hiding inside Pacific Northwest Glaciers | CNN",
+      "slug": "the-spooky-secret-hiding-inside-pacific-northwest-glaciers-cnn",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,8 +50,8 @@
       }
     },
     {
-      "title": "'Top Gun' star Tom Skerritt dead at 93",
-      "slug": "top-gun-star-tom-skerritt-dead-at-93",
+      "title": "Erika Kirk rips 'absurd' 2029 trial timeline for Charlie Kirk's alleged assassin",
+      "slug": "erika-kirk-rips-absurd-2029-trial-timeline-for-charlie-kirk-s-alleged-assassin",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +66,24 @@
       }
     },
     {
-      "title": "RILEY GAINES: Call Her Daddy's advice is a dangerous recipe for lifelong regret",
-      "slug": "riley-gaines-call-her-daddy-s-advice-is-a-dangerous-recipe-for-lifelong-regret",
+      "title": "Did we create a monster? Arch Manning’s ‘aw shucks’ persona is gone before must-win Ole Miss game",
+      "slug": "did-we-create-a-monster-arch-manning-s-aw-shucks-persona-is-gone-before-must-win-ole-miss-game",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Man accused of decapitating Iwo Jima statue with sledgehammer near Quantico",
+      "slug": "man-accused-of-decapitating-iwo-jima-statue-with-sledgehammer-near-quantico",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
