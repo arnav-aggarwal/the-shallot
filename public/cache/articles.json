@@ -1,6 +1,38 @@
 {
-  "updatedAt": "2026-10-27T21:47:04.266Z",
+  "updatedAt": "2026-10-28T03:52:39.070Z",
   "articles": [
+    {
+      "title": "Brooke Hogan blasts ‘fake, greedy people’ after Hulk’s Florida home sale: ‘Enjoy your dirty money’",
+      "slug": "brooke-hogan-blasts-fake-greedy-people-after-hulk-s-florida-home-sale-enjoy-your-dirty-money",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Deported migrant who '60 Minutes' painted as sympathetic family man claimed he was gay on asylum application",
+      "slug": "deported-migrant-who-60-minutes-painted-as-sympathetic-family-man-claimed-he-was-gay-on-asylum-application",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
     {
       "title": "Dem bucks party over alleged Alaska vote-siphoning effort: 'Neither party should be doing it'",
       "slug": "dem-bucks-party-over-alleged-alaska-vote-siphoning-effort-neither-party-should-be-doing-it",
@@ -18,8 +50,8 @@
       }
     },
     {
-      "title": "DOJ charges Comey for third time",
-      "slug": "doj-charges-comey-for-third-time",
+      "title": "Jay-Z to headline Super Bowl LXI halftime show in Los Angeles",
+      "slug": "jay-z-to-headline-super-bowl-lxi-halftime-show-in-los-angeles",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,8 +66,8 @@
       }
     },
     {
-      "title": "Blakeman’s bank statements don’t match his disclosure reports",
-      "slug": "blakeman-s-bank-statements-don-t-match-his-disclosure-reports",
+      "title": "Judge extends tree-cutting block at East Potomac Park",
+      "slug": "judge-extends-tree-cutting-block-at-east-potomac-park",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -50,40 +82,8 @@
       }
     },
     {
-      "title": "Iranians scramble to purchase goods as Trump, Israel weigh return to full-scale war on Tehran",
-      "slug": "iranians-scramble-to-purchase-goods-as-trump-israel-weigh-return-to-full-scale-war-on-tehran",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Trump says Brazil’s election results ‘looked rigged’",
-      "slug": "trump-says-brazil-s-election-results-looked-rigged",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Trump's not on the ballot but swing state voters still cast ballots with MAGA in mind",
-      "slug": "trump-s-not-on-the-ballot-but-swing-state-voters-still-cast-ballots-with-maga-in-mind",
+      "title": "Jay-Z said he’ll just do the Super Bowl Halftime Show himself",
+      "slug": "jay-z-said-he-ll-just-do-the-super-bowl-halftime-show-himself",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
