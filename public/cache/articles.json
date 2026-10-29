@@ -1,9 +1,57 @@
 {
-  "updatedAt": "2026-10-28T22:08:11.779Z",
+  "updatedAt": "2026-10-29T04:15:35.888Z",
   "articles": [
     {
-      "title": "Yankees legend says he does not 'feel welcome' by team despite legendary career",
-      "slug": "yankees-legend-says-he-does-not-feel-welcome-by-team-despite-legendary-career",
+      "title": "FBI raids Beverly Hills mansion as part of Eric Swalwell investigation",
+      "slug": "fbi-raids-beverly-hills-mansion-as-part-of-eric-swalwell-investigation",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Federal officials identify 400 noncitizens registered to vote in Washington state: 'Tip of the iceberg'",
+      "slug": "federal-officials-identify-400-noncitizens-registered-to-vote-in-washington-state-tip-of-the-iceberg",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Trump announces end of Biden-era methane rule, citing $45B in savings",
+      "slug": "trump-announces-end-of-biden-era-methane-rule-citing-45b-in-savings",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Trump and Talarico hold dueling Texas rallies",
+      "slug": "trump-and-talarico-hold-dueling-texas-rallies",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -34,56 +82,8 @@
       }
     },
     {
-      "title": "Israelis vote in record numbers in first national election since the Oct 7 Hamas massacre",
-      "slug": "israelis-vote-in-record-numbers-in-first-national-election-since-the-oct-7-hamas-massacre",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Trump officials say men face a testosterone crisis. Experts say numbers tell different story",
-      "slug": "trump-officials-say-men-face-a-testosterone-crisis-experts-say-numbers-tell-different-story",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "WNBA's bizarre national anthem controversy shows just how much the league needs Caitlin Clark",
-      "slug": "wnba-s-bizarre-national-anthem-controversy-shows-just-how-much-the-league-needs-caitlin-clark",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Democrats prep for election interference as Trump administration makes moves",
-      "slug": "democrats-prep-for-election-interference-as-trump-administration-makes-moves",
+      "title": "Murkowski backs Alaska Democrat for governor",
+      "slug": "murkowski-backs-alaska-democrat-for-governor",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
