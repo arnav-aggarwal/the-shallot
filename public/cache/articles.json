@@ -1,41 +1,9 @@
 {
-  "updatedAt": "2026-10-31T16:46:16.306Z",
+  "updatedAt": "2026-10-31T20:56:44.628Z",
   "articles": [
     {
-      "title": "JACKSON THOMPSON: Maine high school girls ask federal officials to intervene over transgender soccer player",
-      "slug": "jackson-thompson-maine-high-school-girls-ask-federal-officials-to-intervene-over-transgender-soccer-player",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "4 US cities are the lucky winners of Trump's $300M crime crackdown contest",
-      "slug": "4-us-cities-are-the-lucky-winners-of-trump-s-300m-crime-crackdown-contest",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "Trump’s heartland rally reversal",
-      "slug": "trump-s-heartland-rally-reversal",
+      "title": "Pope Leo makes history in US election with move confirmed by Vatican",
+      "slug": "pope-leo-makes-history-in-us-election-with-move-confirmed-by-vatican",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,8 +34,8 @@
       }
     },
     {
-      "title": "Aspiring NYPD officer and college hockey captain killed in crash involving twice-removed Mexican national",
-      "slug": "aspiring-nypd-officer-and-college-hockey-captain-killed-in-crash-involving-twice-removed-mexican-national",
+      "title": "Schumer accused of yearlong plot to plant 'decoy' candidate in critical Senate race",
+      "slug": "schumer-accused-of-yearlong-plot-to-plant-decoy-candidate-in-critical-senate-race",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +50,40 @@
       }
     },
     {
-      "title": "Democrats are still looking for a message, even if they win big on Tuesday",
-      "slug": "democrats-are-still-looking-for-a-message-even-if-they-win-big-on-tuesday",
+      "title": "Treasury flags $8B in suspicious foreign-directed transfers through US money services firms",
+      "slug": "treasury-flags-8b-in-suspicious-foreign-directed-transfers-through-us-money-services-firms",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Pentagon offering military options to Trump as key midterm election deadline approaches",
+      "slug": "pentagon-offering-military-options-to-trump-as-key-midterm-election-deadline-approaches",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Appeals court rules against Trump — again — on California ballots",
+      "slug": "appeals-court-rules-against-trump-again-on-california-ballots",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
