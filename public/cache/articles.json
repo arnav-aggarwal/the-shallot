@@ -1,38 +1,6 @@
 {
-  "updatedAt": "2026-11-09T21:53:54.608Z",
+  "updatedAt": "2026-11-10T05:51:33.147Z",
   "articles": [
-    {
-      "title": "Nvidia CEO Jensen Huang apologizes as firm probes affair with alleged spy",
-      "slug": "nvidia-ceo-jensen-huang-apologizes-as-firm-probes-affair-with-alleged-spy",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
-    {
-      "title": "AI safety center faces White House oversight questions",
-      "slug": "ai-safety-center-faces-white-house-oversight-questions",
-      "neutral": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "conservative": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      },
-      "progressive": {
-        "headline": "[Rewrite failed]",
-        "body": ""
-      }
-    },
     {
       "title": "Deputy White House Chief of Staff Richard Walters exits job ahead of Stephen Miller takeover",
       "slug": "deputy-white-house-chief-of-staff-richard-walters-exits-job-ahead-of-stephen-miller-takeover",
@@ -50,8 +18,8 @@
       }
     },
     {
-      "title": "George W Bush welcomes 27 veterans to his ranch for 16th annual Warrior Ride",
-      "slug": "george-w-bush-welcomes-27-veterans-to-his-ranch-for-16th-annual-warrior-ride",
+      "title": "Tensions flare as demonstrators target Jewish restaurants, drawing massive counterprotest",
+      "slug": "tensions-flare-as-demonstrators-target-jewish-restaurants-drawing-massive-counterprotest",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -66,8 +34,8 @@
       }
     },
     {
-      "title": "Midterms and 2028: Join America's conversation here!",
-      "slug": "midterms-and-2028-join-america-s-conversation-here",
+      "title": "Jonathan Taylor delivers what sounds like a goodbye to Indianapolis after Colts' fifth straight loss",
+      "slug": "jonathan-taylor-delivers-what-sounds-like-a-goodbye-to-indianapolis-after-colts-fifth-straight-loss",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
@@ -82,8 +50,40 @@
       }
     },
     {
-      "title": "Trump ‘holds all the cards’ in war against Iran’s regime, White House says",
-      "slug": "trump-holds-all-the-cards-in-war-against-iran-s-regime-white-house-says",
+      "title": "Bernie Sanders warns Democrats not to spend all their time investigating Trump",
+      "slug": "bernie-sanders-warns-democrats-not-to-spend-all-their-time-investigating-trump",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Trump says he doesn’t disagree with Vance that Iran war fueled GOP losses",
+      "slug": "trump-says-he-doesn-t-disagree-with-vance-that-iran-war-fueled-gop-losses",
+      "neutral": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "conservative": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      },
+      "progressive": {
+        "headline": "[Rewrite failed]",
+        "body": ""
+      }
+    },
+    {
+      "title": "Trump admits immigration enforcement may have been too 'tough' in first interview since midterms",
+      "slug": "trump-admits-immigration-enforcement-may-have-been-too-tough-in-first-interview-since-midterms",
       "neutral": {
         "headline": "[Rewrite failed]",
         "body": ""
